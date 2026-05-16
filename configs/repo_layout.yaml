@@ -1,0 +1,15 @@
+﻿project: SPHLCMGA
+entry_points:
+  dataset1_cv: dataset1_maintest.py
+  dataset2_cv: dataset2_maintest.py
+  cold_start: cold_start_runner.py
+  interpretability: interpretability_runner.py
+  knockout: dataset2_knockout_analysis.py
+  external_validation_prepare: external_validation/prepare_external_validation.py
+  external_validation_run: external_validation/run_external_validation.py
+paths:
+  dataset1_script_dir: Data
+  dataset2_script_dir: Data2
+  datasets_dir: datasets
+  checkpoint: checkpoints/best_model_fold_2.pth
+  results_dir: results
