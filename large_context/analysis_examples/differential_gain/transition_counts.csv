@@ -1,0 +1,5 @@
+transition,count,fraction
+wrong_to_right,910,0.0626204238921002
+right_to_wrong,743,0.05112854390311038
+wrong_to_wrong,2603,0.17912193779245802
+right_to_right,10276,0.7071290944123314

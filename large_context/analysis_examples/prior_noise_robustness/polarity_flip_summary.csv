@@ -1,0 +1,11 @@
+scenario,scenario_label,scenario_family,noise_level,model,model_label,clean_correct_positive,polarity_flip_count,polarity_flip_rate
+clean,Clean,clean,0,base,SPHLCMGA,0,0,0.0
+pathway10,Pathway 10%,pathway,10,base,SPHLCMGA,4340,0,0.0
+pathway20,Pathway 20%,pathway,20,base,SPHLCMGA,4340,0,0.0
+combined10,Combined 10%,combined,10,base,SPHLCMGA,4340,0,0.0
+combined20,Combined 20%,combined,20,base,SPHLCMGA,4340,0,0.0
+clean,Clean,clean,0,context_pathway,SPHLCMGA-CP,0,0,0.0
+pathway10,Pathway 10%,pathway,10,context_pathway,SPHLCMGA-CP,4447,565,0.12705194513154935
+pathway20,Pathway 20%,pathway,20,context_pathway,SPHLCMGA-CP,4447,638,0.14346750618394424
+combined10,Combined 10%,combined,10,context_pathway,SPHLCMGA-CP,4447,565,0.12705194513154935
+combined20,Combined 20%,combined,20,context_pathway,SPHLCMGA-CP,4447,638,0.14346750618394424

@@ -1,0 +1,1130 @@
+id,name,canonical_name,type
+0,miR-21 target program,mir-21 target program,pathway
+1,ABC transporter program,abc transporter program,pathway
+2,Cisplatin support module,cisplatin support module,pathway
+3,Sphingolipid metabolism,sphingolipid metabolism,pathway
+4,Base excision repair,base excision repair,pathway
+5,Cisplatin resistance lung signature,cisplatin resistance lung signature,pathway
+6,Cisplatin sensitivity lung signature,cisplatin sensitivity lung signature,pathway
+7,ABC-family proteins mediated transport,abc-family proteins mediated transport,pathway
+8,ADORA2B mediated anti-inflammatory cytokines production,adora2b mediated anti-inflammatory cytokines production,pathway
+9,ADP signalling through P2Y purinoceptor 1,adp signalling through p2y purinoceptor 1,pathway
+10,ADP signalling through P2Y purinoceptor 12,adp signalling through p2y purinoceptor 12,pathway
+11,ALK mutants bind TKIs,alk mutants bind tkis,pathway
+12,APC/C-mediated degradation of cell cycle proteins,apc/c-mediated degradation of cell cycle proteins,pathway
+13,APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1,apc/c:cdh1 mediated degradation of cdc20 and other apc/c:cdh1 targeted proteins in late mitosis/early g1,pathway
+14,ARMS-mediated activation,arms-mediated activation,pathway
+15,ATP-dependent chromatin remodelers,atp-dependent chromatin remodelers,pathway
+16,AURKA Activation by TPX2,aurka activation by tpx2,pathway
+17,Abacavir ADME,abacavir adme,pathway
+18,Abacavir transmembrane transport,abacavir transmembrane transport,pathway
+19,Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects,aberrant regulation of mitotic g1/s transition in cancer due to rb1 defects,pathway
+20,Aberrant regulation of mitotic cell cycle due to RB1 defects,aberrant regulation of mitotic cell cycle due to rb1 defects,pathway
+21,Acetylcholine Neurotransmitter Release Cycle,acetylcholine neurotransmitter release cycle,pathway
+22,Activated NOTCH1 Transmits Signal to the Nucleus,activated notch1 transmits signal to the nucleus,pathway
+23,Activated NTRK2 signals through FYN,activated ntrk2 signals through fyn,pathway
+24,Activated NTRK2 signals through PI3K,activated ntrk2 signals through pi3k,pathway
+25,Activated NTRK3 signals through PI3K,activated ntrk3 signals through pi3k,pathway
+26,Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3,activated pkn1 stimulates transcription of ar (androgen receptor) regulated genes klk2 and klk3,pathway
+27,Activated point mutants of FGFR2,activated point mutants of fgfr2,pathway
+28,Activation of AMPK downstream of NMDARs,activation of ampk downstream of nmdars,pathway
+29,Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,activation of apc/c and apc/c:cdc20 mediated degradation of mitotic proteins,pathway
+30,Activation of BAD and translocation to mitochondria ,activation of bad and translocation to mitochondria,pathway
+31,Activation of BH3-only proteins,activation of bh3-only proteins,pathway
+32,Activation of G protein gated Potassium channels,activation of g protein gated potassium channels,pathway
+33,Activation of GABAB receptors,activation of gabab receptors,pathway
+34,Activation of HOX genes during differentiation,activation of hox genes during differentiation,pathway
+35,"Activation of NIMA Kinases NEK9, NEK6, NEK7","activation of nima kinases nek9, nek6, nek7",pathway
+36,Activation of NMDA receptors and postsynaptic events,activation of nmda receptors and postsynaptic events,pathway
+37,Activation of PPARGC1A (PGC-1alpha) by phosphorylation,activation of ppargc1a (pgc-1alpha) by phosphorylation,pathway
+38,Activation of TRKA receptors,activation of trka receptors,pathway
+39,Activation of anterior HOX genes in hindbrain development during early embryogenesis,activation of anterior hox genes in hindbrain development during early embryogenesis,pathway
+40,Activation of kainate receptors upon glutamate binding,activation of kainate receptors upon glutamate binding,pathway
+41,Activation of the AP-1 family of transcription factors,activation of the ap-1 family of transcription factors,pathway
+42,Activation of the pre-replicative complex,activation of the pre-replicative complex,pathway
+43,Acyl chain remodelling of PE,acyl chain remodelling of pe,pathway
+44,Adaptive Immune System,adaptive immune system,pathway
+45,Adherens junctions interactions,adherens junctions interactions,pathway
+46,Adipogenesis,adipogenesis,pathway
+47,"Adrenaline,noradrenaline inhibits insulin secretion","adrenaline,noradrenaline inhibits insulin secretion",pathway
+48,Aggrephagy,aggrephagy,pathway
+49,Amino acid transport across the plasma membrane,amino acid transport across the plasma membrane,pathway
+50,Amino acids regulate mTORC1,amino acids regulate mtorc1,pathway
+51,Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal,amplification of signal from unattached kinetochores via a mad2 inhibitory signal,pathway
+52,Amplification of signal from the kinetochores,amplification of signal from the kinetochores,pathway
+53,Amyloid fiber formation,amyloid fiber formation,pathway
+54,Anchoring fibril formation,anchoring fibril formation,pathway
+55,Anchoring of the basal body to the plasma membrane,anchoring of the basal body to the plasma membrane,pathway
+56,Anti-inflammatory response favouring Leishmania parasite infection,anti-inflammatory response favouring leishmania parasite infection,pathway
+57,Antigen activates B Cell Receptor (BCR) leading to generation of second messengers,antigen activates b cell receptor (bcr) leading to generation of second messengers,pathway
+58,Antigen processing-Cross presentation,antigen processing-cross presentation,pathway
+59,Antigen processing: Ubiquitination & Proteasome degradation,antigen processing: ubiquitination & proteasome degradation,pathway
+60,Antimicrobial mechanism of IFN-stimulated genes,antimicrobial mechanism of ifn-stimulated genes,pathway
+61,Antimicrobial peptides,antimicrobial peptides,pathway
+62,Apoptosis,apoptosis,pathway
+63,Aquaporin-mediated transport,aquaporin-mediated transport,pathway
+64,Arachidonate metabolism,arachidonate metabolism,pathway
+65,Aryl hydrocarbon receptor signalling,aryl hydrocarbon receptor signalling,pathway
+66,Asparagine N-linked glycosylation,asparagine n-linked glycosylation,pathway
+67,Aspirin ADME,aspirin adme,pathway
+68,Assembly and cell surface presentation of NMDA receptors,assembly and cell surface presentation of nmda receptors,pathway
+69,Assembly and release of respiratory syncytial virus (RSV) virions,assembly and release of respiratory syncytial virus (rsv) virions,pathway
+70,Assembly of collagen fibrils and other multimeric structures,assembly of collagen fibrils and other multimeric structures,pathway
+71,Association of TriC/CCT with target proteins during biosynthesis,association of tric/cct with target proteins during biosynthesis,pathway
+72,Atorvastatin ADME,atorvastatin adme,pathway
+73,Attachment of bacteria to epithelial cells,attachment of bacteria to epithelial cells,pathway
+74,Attenuation phase,attenuation phase,pathway
+75,Autophagy,autophagy,pathway
+76,Axon guidance,axon guidance,pathway
+77,Azathioprine ADME,azathioprine adme,pathway
+78,BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members,bh3-only proteins associate with and inactivate anti-apoptotic bcl-2 members,pathway
+79,Bacterial Infection Pathways,bacterial infection pathways,pathway
+80,Base Excision Repair,base excision repair,pathway
+81,Basigin interactions,basigin interactions,pathway
+82,Beta-catenin independent WNT signaling,beta-catenin independent wnt signaling,pathway
+83,Bile acid and bile salt metabolism,bile acid and bile salt metabolism,pathway
+84,Binding and Uptake of Ligands by Scavenger Receptors,binding and uptake of ligands by scavenger receptors,pathway
+85,Biofilm formation,biofilm formation,pathway
+86,Biological oxidations,biological oxidations,pathway
+87,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,butyrate response factor 1 (brf1) binds and destabilizes mrna,pathway
+88,C-type lectin receptors (CLRs),c-type lectin receptors (clrs),pathway
+89,CASP4 inflammasome assembly,casp4 inflammasome assembly,pathway
+90,CASP4-mediated substrate cleavage,casp4-mediated substrate cleavage,pathway
+91,CD28 dependent PI3K/Akt signaling,cd28 dependent pi3k/akt signaling,pathway
+92,CDC42 GTPase cycle,cdc42 gtpase cycle,pathway
+93,CLEC7A (Dectin-1) signaling,clec7a (dectin-1) signaling,pathway
+94,COPI-dependent Golgi-to-ER retrograde traffic,copi-dependent golgi-to-er retrograde traffic,pathway
+95,COPI-independent Golgi-to-ER retrograde traffic,copi-independent golgi-to-er retrograde traffic,pathway
+96,COPI-mediated anterograde transport,copi-mediated anterograde transport,pathway
+97,COPII-mediated vesicle transport,copii-mediated vesicle transport,pathway
+98,CRMPs in Sema3A signaling,crmps in sema3a signaling,pathway
+99,Ca2+ pathway,ca2+ pathway,pathway
+100,Calcineurin activates NFAT,calcineurin activates nfat,pathway
+101,Carboxyterminal post-translational modifications of tubulin,carboxyterminal post-translational modifications of tubulin,pathway
+102,Cardiac conduction,cardiac conduction,pathway
+103,Cargo concentration in the ER,cargo concentration in the er,pathway
+104,Cargo recognition for clathrin-mediated endocytosis,cargo recognition for clathrin-mediated endocytosis,pathway
+105,Cargo trafficking to the periciliary membrane,cargo trafficking to the periciliary membrane,pathway
+106,Cell Cycle,cell cycle,pathway
+107,Cell Cycle Checkpoints,cell cycle checkpoints,pathway
+108,"Cell Cycle, Mitotic","cell cycle, mitotic",pathway
+109,Cell junction organization,cell junction organization,pathway
+110,Cell recruitment (pro-inflammatory response),cell recruitment (pro-inflammatory response),pathway
+111,Cell surface interactions at the vascular wall,cell surface interactions at the vascular wall,pathway
+112,Cell-Cell communication,cell-cell communication,pathway
+113,Cell-cell junction organization,cell-cell junction organization,pathway
+114,Cellular Senescence,cellular senescence,pathway
+115,Cellular response to chemical stress,cellular response to chemical stress,pathway
+116,Cellular response to heat stress,cellular response to heat stress,pathway
+117,Cellular response to hypoxia,cellular response to hypoxia,pathway
+118,Cellular response to starvation,cellular response to starvation,pathway
+119,Cellular responses to mechanical stimuli,cellular responses to mechanical stimuli,pathway
+120,Cellular responses to stimuli,cellular responses to stimuli,pathway
+121,Cellular responses to stress,cellular responses to stress,pathway
+122,Centrosome maturation,centrosome maturation,pathway
+123,Chaperone Mediated Autophagy,chaperone mediated autophagy,pathway
+124,Chaperonin-mediated protein folding,chaperonin-mediated protein folding,pathway
+125,Chemokine receptors bind chemokines,chemokine receptors bind chemokines,pathway
+126,Chromatin modifying enzymes,chromatin modifying enzymes,pathway
+127,Chromatin organization,chromatin organization,pathway
+128,Chromosome Maintenance,chromosome maintenance,pathway
+129,Cilium Assembly,cilium assembly,pathway
+130,Circadian clock,circadian clock,pathway
+131,Class A/1 (Rhodopsin-like receptors),class a/1 (rhodopsin-like receptors),pathway
+132,Class B/2 (Secretin family receptors),class b/2 (secretin family receptors),pathway
+133,Class I MHC mediated antigen processing & presentation,class i mhc mediated antigen processing & presentation,pathway
+134,Clathrin-mediated endocytosis,clathrin-mediated endocytosis,pathway
+135,Co-inhibition by CTLA4,co-inhibition by ctla4,pathway
+136,Co-inhibition by PD-1,co-inhibition by pd-1,pathway
+137,Co-stimulation by CD28,co-stimulation by cd28,pathway
+138,Co-stimulation by ICOS,co-stimulation by icos,pathway
+139,Collagen biosynthesis and modifying enzymes,collagen biosynthesis and modifying enzymes,pathway
+140,Collagen degradation,collagen degradation,pathway
+141,Collagen formation,collagen formation,pathway
+142,Complement cascade,complement cascade,pathway
+143,Condensation of Prophase Chromosomes,condensation of prophase chromosomes,pathway
+144,Constitutive Signaling by AKT1 E17K in Cancer,constitutive signaling by akt1 e17k in cancer,pathway
+145,Constitutive Signaling by Aberrant PI3K in Cancer,constitutive signaling by aberrant pi3k in cancer,pathway
+146,Constitutive Signaling by EGFRvIII,constitutive signaling by egfrviii,pathway
+147,Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants,constitutive signaling by ligand-responsive egfr cancer variants,pathway
+148,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants,constitutive signaling by notch1 hd+pest domain mutants,pathway
+149,Constitutive Signaling by NOTCH1 PEST Domain Mutants,constitutive signaling by notch1 pest domain mutants,pathway
+150,Constitutive Signaling by Overexpressed ERBB2,constitutive signaling by overexpressed erbb2,pathway
+151,Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding,cooperation of pdcl (phlp1) and tric/cct in g-protein beta folding,pathway
+152,Cooperation of Prefoldin and TriC/CCT  in actin and tubulin folding,cooperation of prefoldin and tric/cct in actin and tubulin folding,pathway
+153,Creatine metabolism,creatine metabolism,pathway
+154,Cyclin A/B1/B2 associated events during G2/M transition,cyclin a/b1/b2 associated events during g2/m transition,pathway
+155,Cyclin A:Cdk2-associated events at S phase entry,cyclin a:cdk2-associated events at s phase entry,pathway
+156,Cyclin D associated events in G1,cyclin d associated events in g1,pathway
+157,Cyclin E associated events during G1/S transition ,cyclin e associated events during g1/s transition,pathway
+158,Cytochrome P450 - arranged by substrate type,cytochrome p450 - arranged by substrate type,pathway
+159,Cytokine Signaling in Immune system,cytokine signaling in immune system,pathway
+160,Cytoprotection by HMOX1,cytoprotection by hmox1,pathway
+161,Cytosolic iron-sulfur cluster assembly,cytosolic iron-sulfur cluster assembly,pathway
+162,DAP12 interactions,dap12 interactions,pathway
+163,DAP12 signaling,dap12 signaling,pathway
+164,DCC mediated attractive signaling,dcc mediated attractive signaling,pathway
+165,DDX58/IFIH1-mediated induction of interferon-alpha/beta,ddx58/ifih1-mediated induction of interferon-alpha/beta,pathway
+166,DNA Damage Bypass,dna damage bypass,pathway
+167,DNA Damage Recognition in GG-NER,dna damage recognition in gg-ner,pathway
+168,DNA Damage/Telomere Stress Induced Senescence,dna damage/telomere stress induced senescence,pathway
+169,DNA Double Strand Break Response,dna double strand break response,pathway
+170,DNA Double-Strand Break Repair,dna double-strand break repair,pathway
+171,DNA Repair,dna repair,pathway
+172,DNA Replication,dna replication,pathway
+173,DNA Replication Pre-Initiation,dna replication pre-initiation,pathway
+174,DNA methylation,dna methylation,pathway
+175,DNA replication initiation,dna replication initiation,pathway
+176,DNA strand elongation,dna strand elongation,pathway
+177,Dasatinib-resistant KIT mutants,dasatinib-resistant kit mutants,pathway
+178,Deactivation of the beta-catenin transactivating complex,deactivation of the beta-catenin transactivating complex,pathway
+179,Death Receptor Signaling,death receptor signaling,pathway
+180,Defective B3GALTL causes PpS,defective b3galtl causes pps,pathway
+181,Defective CYP19A1 causes AEXS,defective cyp19a1 causes aexs,pathway
+182,Defective Intrinsic Pathway for Apoptosis,defective intrinsic pathway for apoptosis,pathway
+183,"Defective binding of RB1 mutants to E2F1,(E2F2, E2F3)","defective binding of rb1 mutants to e2f1,(e2f2, e2f3)",pathway
+184,Defective pyroptosis,defective pyroptosis,pathway
+185,Degradation of CDH1,degradation of cdh1,pathway
+186,Degradation of CRY and PER proteins,degradation of cry and per proteins,pathway
+187,Degradation of DVL,degradation of dvl,pathway
+188,Degradation of GABA,degradation of gaba,pathway
+189,Degradation of GLI1 by the proteasome,degradation of gli1 by the proteasome,pathway
+190,Degradation of GLI2 by the proteasome,degradation of gli2 by the proteasome,pathway
+191,Degradation of beta-catenin by the destruction complex,degradation of beta-catenin by the destruction complex,pathway
+192,Degradation of the extracellular matrix,degradation of the extracellular matrix,pathway
+193,Dengue Virus Attachment and Entry,dengue virus attachment and entry,pathway
+194,Dengue Virus Infection,dengue virus infection,pathway
+195,Dengue Virus-Host Interactions,dengue virus-host interactions,pathway
+196,Dengue virus activates/modulates innate and adaptive immune responses,dengue virus activates/modulates innate and adaptive immune responses,pathway
+197,Dengue virus modulates apoptosis,dengue virus modulates apoptosis,pathway
+198,Deposition of new CENPA-containing nucleosomes at the centromere,deposition of new cenpa-containing nucleosomes at the centromere,pathway
+199,Detoxification of Reactive Oxygen Species,detoxification of reactive oxygen species,pathway
+200,Deubiquitination,deubiquitination,pathway
+201,Developmental Biology,developmental biology,pathway
+202,Developmental Cell Lineages,developmental cell lineages,pathway
+203,Developmental Cell Lineages of the Exocrine Pancreas,developmental cell lineages of the exocrine pancreas,pathway
+204,Developmental Cell Lineages of the Integumentary System,developmental cell lineages of the integumentary system,pathway
+205,Developmental Lineage of Mammary Gland Alveolar Cells,developmental lineage of mammary gland alveolar cells,pathway
+206,Developmental Lineage of Mammary Gland Luminal Epithelial Cells,developmental lineage of mammary gland luminal epithelial cells,pathway
+207,Developmental Lineage of Mammary Gland Myoepithelial Cells,developmental lineage of mammary gland myoepithelial cells,pathway
+208,Developmental Lineage of Mammary Stem Cells,developmental lineage of mammary stem cells,pathway
+209,Developmental Lineage of Pancreatic Ductal Cells,developmental lineage of pancreatic ductal cells,pathway
+210,Developmental Lineages of the Mammary Gland,developmental lineages of the mammary gland,pathway
+211,Differentiation of Keratinocytes in Interfollicular Epidermis in Mammalian Skin,differentiation of keratinocytes in interfollicular epidermis in mammalian skin,pathway
+212,Disease,disease,pathway
+213,Diseases associated with O-glycosylation of proteins,diseases associated with o-glycosylation of proteins,pathway
+214,Diseases associated with the TLR signaling cascade,diseases associated with the tlr signaling cascade,pathway
+215,Diseases of Cellular Senescence,diseases of cellular senescence,pathway
+216,Diseases of Immune System,diseases of immune system,pathway
+217,Diseases of cellular response to stress,diseases of cellular response to stress,pathway
+218,Diseases of glycosylation,diseases of glycosylation,pathway
+219,Diseases of metabolism,diseases of metabolism,pathway
+220,Diseases of mitotic cell cycle,diseases of mitotic cell cycle,pathway
+221,Diseases of programmed cell death,diseases of programmed cell death,pathway
+222,Diseases of signal transduction by growth factor receptors and second messengers,diseases of signal transduction by growth factor receptors and second messengers,pathway
+223,Disorders of Developmental Biology,disorders of developmental biology,pathway
+224,Disorders of Nervous System Development,disorders of nervous system development,pathway
+225,Dissolution of Fibrin Clot,dissolution of fibrin clot,pathway
+226,Dopamine Neurotransmitter Release Cycle,dopamine neurotransmitter release cycle,pathway
+227,Downregulation of ERBB2 signaling,downregulation of erbb2 signaling,pathway
+228,Downregulation of ERBB2:ERBB3 signaling,downregulation of erbb2:erbb3 signaling,pathway
+229,Downregulation of ERBB4 signaling,downregulation of erbb4 signaling,pathway
+230,Downregulation of SMAD2/3:SMAD4 transcriptional activity,downregulation of smad2/3:smad4 transcriptional activity,pathway
+231,Downstream TCR signaling,downstream tcr signaling,pathway
+232,Downstream signal transduction,downstream signal transduction,pathway
+233,Downstream signaling events of B Cell Receptor (BCR),downstream signaling events of b cell receptor (bcr),pathway
+234,Downstream signaling of activated FGFR1,downstream signaling of activated fgfr1,pathway
+235,Downstream signaling of activated FGFR2,downstream signaling of activated fgfr2,pathway
+236,Downstream signaling of activated FGFR3,downstream signaling of activated fgfr3,pathway
+237,Downstream signaling of activated FGFR4,downstream signaling of activated fgfr4,pathway
+238,Drug ADME,drug adme,pathway
+239,Drug resistance in ERBB2 KD mutants,drug resistance in erbb2 kd mutants,pathway
+240,Drug resistance in ERBB2 TMD/JMD mutants,drug resistance in erbb2 tmd/jmd mutants,pathway
+241,Drug resistance of FLT3 mutants,drug resistance of flt3 mutants,pathway
+242,Drug resistance of KIT mutants,drug resistance of kit mutants,pathway
+243,Drug resistance of PDGFR mutants,drug resistance of pdgfr mutants,pathway
+244,Drug-mediated inhibition of CDK4/CDK6 activity,drug-mediated inhibition of cdk4/cdk6 activity,pathway
+245,Drug-mediated inhibition of ERBB2 signaling,drug-mediated inhibition of erbb2 signaling,pathway
+246,Dual Incision in GG-NER,dual incision in gg-ner,pathway
+247,Dual incision in TC-NER,dual incision in tc-ner,pathway
+248,E2F mediated regulation of DNA replication,e2f mediated regulation of dna replication,pathway
+249,ECM proteoglycans,ecm proteoglycans,pathway
+250,EGFR Transactivation by Gastrin,egfr transactivation by gastrin,pathway
+251,EGFR downregulation,egfr downregulation,pathway
+252,EGFR interacts with phospholipase C-gamma,egfr interacts with phospholipase c-gamma,pathway
+253,EGR2 and SOX10-mediated initiation of Schwann cell myelination,egr2 and sox10-mediated initiation of schwann cell myelination,pathway
+254,EML4 and NUDC in mitotic spindle formation,eml4 and nudc in mitotic spindle formation,pathway
+255,EPH-Ephrin signaling,eph-ephrin signaling,pathway
+256,EPH-ephrin mediated repulsion of cells,eph-ephrin mediated repulsion of cells,pathway
+257,EPHA-mediated growth cone collapse,epha-mediated growth cone collapse,pathway
+258,EPHB-mediated forward signaling,ephb-mediated forward signaling,pathway
+259,ER to Golgi Anterograde Transport,er to golgi anterograde transport,pathway
+260,ER-Phagosome pathway,er-phagosome pathway,pathway
+261,ERBB2 Activates PTK6 Signaling,erbb2 activates ptk6 signaling,pathway
+262,ERBB2 Regulates Cell Motility,erbb2 regulates cell motility,pathway
+263,ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression,ercc6 (csb) and ehmt2 (g9a) positively regulate rrna expression,pathway
+264,ERK/MAPK targets,erk/mapk targets,pathway
+265,ESR-mediated signaling,esr-mediated signaling,pathway
+266,Elastic fibre formation,elastic fibre formation,pathway
+267,Endogenous sterols,endogenous sterols,pathway
+268,Energy dependent regulation of mTOR by LKB1-AMPK,energy dependent regulation of mtor by lkb1-ampk,pathway
+269,Enterobacterial factors antagonize host defense ,enterobacterial factors antagonize host defense,pathway
+270,Ephrin signaling,ephrin signaling,pathway
+271,Epigenetic regulation by WDR5-containing histone modifying complexes,epigenetic regulation by wdr5-containing histone modifying complexes,pathway
+272,Epigenetic regulation of adipogenesis genes by MLL3 and MLL4 complexes,epigenetic regulation of adipogenesis genes by mll3 and mll4 complexes,pathway
+273,Epigenetic regulation of gene expression,epigenetic regulation of gene expression,pathway
+274,Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,epigenetic regulation of gene expression by mll3 and mll4 complexes,pathway
+275,Epithelial-Mesenchymal Transition (EMT) during gastrulation,epithelial-mesenchymal transition (emt) during gastrulation,pathway
+276,Erythropoietin activates Phosphoinositide-3-kinase (PI3K),erythropoietin activates phosphoinositide-3-kinase (pi3k),pathway
+277,Estrogen biosynthesis,estrogen biosynthesis,pathway
+278,Estrogen-dependent gene expression,estrogen-dependent gene expression,pathway
+279,Estrogen-dependent nuclear events downstream of ESR-membrane signaling,estrogen-dependent nuclear events downstream of esr-membrane signaling,pathway
+280,Evasion by RSV of host interferon responses,evasion by rsv of host interferon responses,pathway
+281,Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4,evasion of oncogene induced senescence due to defective p16ink4a binding to cdk4,pathway
+282,Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6,evasion of oncogene induced senescence due to defective p16ink4a binding to cdk4 and cdk6,pathway
+283,Evasion of Oncogene Induced Senescence Due to p16INK4A Defects,evasion of oncogene induced senescence due to p16ink4a defects,pathway
+284,Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4,evasion of oxidative stress induced senescence due to defective p16ink4a binding to cdk4,pathway
+285,Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6,evasion of oxidative stress induced senescence due to defective p16ink4a binding to cdk4 and cdk6,pathway
+286,Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects,evasion of oxidative stress induced senescence due to p16ink4a defects,pathway
+287,Extension of Telomeres,extension of telomeres,pathway
+288,Extra-nuclear estrogen signaling,extra-nuclear estrogen signaling,pathway
+289,Extracellular matrix organization,extracellular matrix organization,pathway
+290,Extrinsic Pathway of Fibrin Clot Formation,extrinsic pathway of fibrin clot formation,pathway
+291,FBXL7 down-regulates AURKA during mitotic entry and in early mitosis,fbxl7 down-regulates aurka during mitotic entry and in early mitosis,pathway
+292,FBXW7 Mutants and NOTCH1 in Cancer,fbxw7 mutants and notch1 in cancer,pathway
+293,FCERI mediated Ca+2 mobilization,fceri mediated ca+2 mobilization,pathway
+294,FCGR activation,fcgr activation,pathway
+295,FCGR3A-mediated IL10 synthesis,fcgr3a-mediated il10 synthesis,pathway
+296,FCGR3A-mediated phagocytosis,fcgr3a-mediated phagocytosis,pathway
+297,FGFR1 ligand binding and activation,fgfr1 ligand binding and activation,pathway
+298,FGFR1 mutant receptor activation,fgfr1 mutant receptor activation,pathway
+299,FGFR1b ligand binding and activation,fgfr1b ligand binding and activation,pathway
+300,FGFR1c and Klotho ligand binding and activation,fgfr1c and klotho ligand binding and activation,pathway
+301,FGFR1c ligand binding and activation,fgfr1c ligand binding and activation,pathway
+302,FGFR2 ligand binding and activation,fgfr2 ligand binding and activation,pathway
+303,FGFR2 mutant receptor activation,fgfr2 mutant receptor activation,pathway
+304,FGFR2b ligand binding and activation,fgfr2b ligand binding and activation,pathway
+305,FGFR2c ligand binding and activation,fgfr2c ligand binding and activation,pathway
+306,FGFR3 ligand binding and activation,fgfr3 ligand binding and activation,pathway
+307,FGFR3 mutant receptor activation,fgfr3 mutant receptor activation,pathway
+308,FGFR3b ligand binding and activation,fgfr3b ligand binding and activation,pathway
+309,FGFR3c ligand binding and activation,fgfr3c ligand binding and activation,pathway
+310,FLT3 Signaling,flt3 signaling,pathway
+311,FLT3 mutants bind TKIs,flt3 mutants bind tkis,pathway
+312,FLT3 signaling by CBL mutants,flt3 signaling by cbl mutants,pathway
+313,FLT3 signaling in disease,flt3 signaling in disease,pathway
+314,FLT3 signaling through SRC family kinases,flt3 signaling through src family kinases,pathway
+315,FOXO-mediated transcription,foxo-mediated transcription,pathway
+316,"FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes","foxo-mediated transcription of oxidative stress, metabolic and neuronal genes",pathway
+317,FRS-mediated FGFR1 signaling,frs-mediated fgfr1 signaling,pathway
+318,FRS-mediated FGFR2 signaling,frs-mediated fgfr2 signaling,pathway
+319,FRS-mediated FGFR3 signaling,frs-mediated fgfr3 signaling,pathway
+320,Factors involved in megakaryocyte development and platelet production,factors involved in megakaryocyte development and platelet production,pathway
+321,Fatty acid metabolism,fatty acid metabolism,pathway
+322,Fc epsilon receptor (FCERI) signaling,fc epsilon receptor (fceri) signaling,pathway
+323,Fcgamma receptor (FCGR) dependent phagocytosis,fcgamma receptor (fcgr) dependent phagocytosis,pathway
+324,Formation of Fibrin Clot (Clotting Cascade),formation of fibrin clot (clotting cascade),pathway
+325,Formation of Incision Complex in GG-NER,formation of incision complex in gg-ner,pathway
+326,Formation of TC-NER Pre-Incision Complex,formation of tc-ner pre-incision complex,pathway
+327,Formation of neuronal progenitor and neuronal BAF (npBAF and nBAF),formation of neuronal progenitor and neuronal baf (npbaf and nbaf),pathway
+328,Formation of paraxial mesoderm,formation of paraxial mesoderm,pathway
+329,Formation of the beta-catenin:TCF transactivating complex,formation of the beta-catenin:tcf transactivating complex,pathway
+330,Formation of the cornified envelope,formation of the cornified envelope,pathway
+331,Formation of the dystrophin-glycoprotein complex (DGC),formation of the dystrophin-glycoprotein complex (dgc),pathway
+332,Formation of the nephric duct,formation of the nephric duct,pathway
+333,Formation of the ureteric bud,formation of the ureteric bud,pathway
+334,Formation of tubulin folding intermediates by CCT/TriC,formation of tubulin folding intermediates by cct/tric,pathway
+335,Frs2-mediated activation,frs2-mediated activation,pathway
+336,G alpha (12/13) signalling events,g alpha (12/13) signalling events,pathway
+337,G alpha (i) signalling events,g alpha (i) signalling events,pathway
+338,G alpha (q) signalling events,g alpha (q) signalling events,pathway
+339,G alpha (s) signalling events,g alpha (s) signalling events,pathway
+340,G alpha (z) signalling events,g alpha (z) signalling events,pathway
+341,G beta:gamma signalling through BTK,g beta:gamma signalling through btk,pathway
+342,G beta:gamma signalling through CDC42,g beta:gamma signalling through cdc42,pathway
+343,G beta:gamma signalling through PI3Kgamma,g beta:gamma signalling through pi3kgamma,pathway
+344,G beta:gamma signalling through PLC beta,g beta:gamma signalling through plc beta,pathway
+345,G protein gated Potassium channels,g protein gated potassium channels,pathway
+346,G-protein activation,g-protein activation,pathway
+347,G-protein beta:gamma signalling,g-protein beta:gamma signalling,pathway
+348,G0 and Early G1,g0 and early g1,pathway
+349,G1 Phase,g1 phase,pathway
+350,G1/S DNA Damage Checkpoints,g1/s dna damage checkpoints,pathway
+351,G1/S Transition,g1/s transition,pathway
+352,G1/S-Specific Transcription,g1/s-specific transcription,pathway
+353,G2/M Transition,g2/m transition,pathway
+354,GAB1 signalosome,gab1 signalosome,pathway
+355,GABA B receptor activation,gaba b receptor activation,pathway
+356,GABA receptor activation,gaba receptor activation,pathway
+357,"GABA synthesis, release, reuptake and degradation","gaba synthesis, release, reuptake and degradation",pathway
+358,GBP-mediated host defense,gbp-mediated host defense,pathway
+359,GLI3 is processed to GLI3R by the proteasome,gli3 is processed to gli3r by the proteasome,pathway
+360,GP1b-IX-V activation signalling,gp1b-ix-v activation signalling,pathway
+361,GPCR downstream signalling,gpcr downstream signalling,pathway
+362,GPCR ligand binding,gpcr ligand binding,pathway
+363,GPER1 signaling,gper1 signaling,pathway
+364,GPVI-mediated activation cascade,gpvi-mediated activation cascade,pathway
+365,GRB2 events in EGFR signaling,grb2 events in egfr signaling,pathway
+366,GRB2 events in ERBB2 signaling,grb2 events in erbb2 signaling,pathway
+367,GRB2:SOS provides linkage to MAPK signaling for Integrins ,grb2:sos provides linkage to mapk signaling for integrins,pathway
+368,GRB7 events in ERBB2 signaling,grb7 events in erbb2 signaling,pathway
+369,GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2,gsk3b and btrc:cul1-mediated-degradation of nfe2l2,pathway
+370,GSK3B-mediated proteasomal degradation of PD-L1(CD274),gsk3b-mediated proteasomal degradation of pd-l1(cd274),pathway
+371,Gain-of-function MRAS complexes activate RAF signaling,gain-of-function mras complexes activate raf signaling,pathway
+372,Gap junction assembly,gap junction assembly,pathway
+373,Gap junction trafficking,gap junction trafficking,pathway
+374,Gap junction trafficking and regulation,gap junction trafficking and regulation,pathway
+375,Gap-filling DNA repair synthesis and ligation in GG-NER,gap-filling dna repair synthesis and ligation in gg-ner,pathway
+376,Gap-filling DNA repair synthesis and ligation in TC-NER,gap-filling dna repair synthesis and ligation in tc-ner,pathway
+377,Gastrin-CREB signalling pathway via PKC and MAPK,gastrin-creb signalling pathway via pkc and mapk,pathway
+378,Gastrulation,gastrulation,pathway
+379,Gene Silencing by RNA,gene silencing by rna,pathway
+380,Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation,gene and protein expression by jak-stat signaling after interleukin-12 stimulation,pathway
+381,Gene expression (Transcription),gene expression (transcription),pathway
+382,Generic Transcription Pathway,generic transcription pathway,pathway
+383,Global Genome Nucleotide Excision Repair (GG-NER),global genome nucleotide excision repair (gg-ner),pathway
+384,Glucagon signaling in metabolic regulation,glucagon signaling in metabolic regulation,pathway
+385,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,glucagon-like peptide-1 (glp1) regulates insulin secretion,pathway
+386,Glucagon-type ligand receptors,glucagon-type ligand receptors,pathway
+387,Glutamate Neurotransmitter Release Cycle,glutamate neurotransmitter release cycle,pathway
+388,"Glutamate binding, activation of AMPA receptors and synaptic plasticity","glutamate binding, activation of ampa receptors and synaptic plasticity",pathway
+389,Glycerophospholipid biosynthesis,glycerophospholipid biosynthesis,pathway
+390,Golgi Associated Vesicle Biogenesis,golgi associated vesicle biogenesis,pathway
+391,Golgi Cisternae Pericentriolar Stack Reorganization,golgi cisternae pericentriolar stack reorganization,pathway
+392,Golgi-to-ER retrograde transport,golgi-to-er retrograde transport,pathway
+393,HCMV Early Events,hcmv early events,pathway
+394,HCMV Infection,hcmv infection,pathway
+395,HDACs deacetylate histones,hdacs deacetylate histones,pathway
+396,HDR through Homologous Recombination (HRR),hdr through homologous recombination (hrr),pathway
+397,HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),hdr through homologous recombination (hrr) or single strand annealing (ssa),pathway
+398,HDR through MMEJ (alt-NHEJ),hdr through mmej (alt-nhej),pathway
+399,HDR through Single Strand Annealing (SSA),hdr through single strand annealing (ssa),pathway
+400,HIV Infection,hiv infection,pathway
+401,HIV Life Cycle,hiv life cycle,pathway
+402,HSF1 activation,hsf1 activation,pathway
+403,HSF1-dependent transactivation,hsf1-dependent transactivation,pathway
+404,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,hsp90 chaperone cycle for steroid hormone receptors (shr) in the presence of ligand,pathway
+405,Hedgehog 'off' state,hedgehog 'off' state,pathway
+406,Hedgehog 'on' state,hedgehog 'on' state,pathway
+407,Heme degradation,heme degradation,pathway
+408,Hemostasis,hemostasis,pathway
+409,High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells,high laminar flow shear stress activates signaling by piezo1 and pecam1:cdh5:kdr in endothelial cells,pathway
+410,Homology Directed Repair,homology directed repair,pathway
+411,Host Interactions of HIV factors,host interactions of hiv factors,pathway
+412,IGF1R signaling cascade,igf1r signaling cascade,pathway
+413,IKK complex recruitment mediated by RIP1,ikk complex recruitment mediated by rip1,pathway
+414,IL-6-type cytokine receptor ligand interactions,il-6-type cytokine receptor ligand interactions,pathway
+415,IRAK4 deficiency (TLR2/4),irak4 deficiency (tlr2/4),pathway
+416,IRS-mediated signalling,irs-mediated signalling,pathway
+417,IRS-related events triggered by IGF1R,irs-related events triggered by igf1r,pathway
+418,Imatinib-resistant KIT mutants,imatinib-resistant kit mutants,pathway
+419,Imatinib-resistant PDGFR mutants,imatinib-resistant pdgfr mutants,pathway
+420,Immune System,immune system,pathway
+421,Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,immunoregulatory interactions between a lymphoid and a non-lymphoid cell,pathway
+422,"Inactivation, recovery and regulation of the phototransduction cascade","inactivation, recovery and regulation of the phototransduction cascade",pathway
+423,Infection with Enterobacteria,infection with enterobacteria,pathway
+424,Infectious disease,infectious disease,pathway
+425,Inflammasomes,inflammasomes,pathway
+426,Influenza Infection,influenza infection,pathway
+427,Influenza Viral RNA Transcription and Replication,influenza viral rna transcription and replication,pathway
+428,Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits,inhibition of voltage gated ca2+ channels via gbeta/gamma subunits,pathway
+429,Inhibition of Signaling by Overexpressed EGFR,inhibition of signaling by overexpressed egfr,pathway
+430,Inhibition of replication initiation of damaged DNA by RB1/E2F1,inhibition of replication initiation of damaged dna by rb1/e2f1,pathway
+431,InlA-mediated entry of Listeria monocytogenes into host cells,inla-mediated entry of listeria monocytogenes into host cells,pathway
+432,InlB-mediated entry of Listeria monocytogenes into host cell,inlb-mediated entry of listeria monocytogenes into host cell,pathway
+433,Innate Immune System,innate immune system,pathway
+434,Inositol phosphate metabolism,inositol phosphate metabolism,pathway
+435,Insulin receptor signalling cascade,insulin receptor signalling cascade,pathway
+436,Integration of energy metabolism,integration of energy metabolism,pathway
+437,Integrin cell surface interactions,integrin cell surface interactions,pathway
+438,Integrin signaling,integrin signaling,pathway
+439,Interaction between L1 and Ankyrins,interaction between l1 and ankyrins,pathway
+440,Interactions of Rev with host cellular proteins,interactions of rev with host cellular proteins,pathway
+441,Interconversion of nucleotide di- and triphosphates,interconversion of nucleotide di- and triphosphates,pathway
+442,Interferon Signaling,interferon signaling,pathway
+443,Interferon alpha/beta signaling,interferon alpha/beta signaling,pathway
+444,Interferon gamma signaling,interferon gamma signaling,pathway
+445,Interleukin receptor SHC signaling,interleukin receptor shc signaling,pathway
+446,Interleukin-1 family signaling,interleukin-1 family signaling,pathway
+447,Interleukin-1 signaling,interleukin-1 signaling,pathway
+448,Interleukin-10 signaling,interleukin-10 signaling,pathway
+449,Interleukin-12 family signaling,interleukin-12 family signaling,pathway
+450,Interleukin-12 signaling,interleukin-12 signaling,pathway
+451,Interleukin-17 signaling,interleukin-17 signaling,pathway
+452,Interleukin-2 family signaling,interleukin-2 family signaling,pathway
+453,"Interleukin-3, Interleukin-5 and GM-CSF signaling","interleukin-3, interleukin-5 and gm-csf signaling",pathway
+454,Interleukin-4 and Interleukin-13 signaling,interleukin-4 and interleukin-13 signaling,pathway
+455,Interleukin-6 family signaling,interleukin-6 family signaling,pathway
+456,Interleukin-7 signaling,interleukin-7 signaling,pathway
+457,Intra-Golgi and retrograde Golgi-to-ER traffic,intra-golgi and retrograde golgi-to-er traffic,pathway
+458,Intra-Golgi traffic,intra-golgi traffic,pathway
+459,Intracellular signaling by second messengers,intracellular signaling by second messengers,pathway
+460,Intraflagellar transport,intraflagellar transport,pathway
+461,Intrinsic Pathway for Apoptosis,intrinsic pathway for apoptosis,pathway
+462,Inwardly rectifying K+ channels,inwardly rectifying k+ channels,pathway
+463,Ion channel transport,ion channel transport,pathway
+464,Ion homeostasis,ion homeostasis,pathway
+465,Ion transport by P-type ATPases,ion transport by p-type atpases,pathway
+466,Iron uptake and transport,iron uptake and transport,pathway
+467,KEAP1-NFE2L2 pathway,keap1-nfe2l2 pathway,pathway
+468,KIT mutants bind TKIs,kit mutants bind tkis,pathway
+469,KSRP (KHSRP) binds and destabilizes mRNA,ksrp (khsrp) binds and destabilizes mrna,pathway
+470,KW2449-resistant FLT3 mutants,kw2449-resistant flt3 mutants,pathway
+471,Keratinization,keratinization,pathway
+472,Kidney development,kidney development,pathway
+473,Kinesins,kinesins,pathway
+474,L1CAM interactions,l1cam interactions,pathway
+475,Lagging Strand Synthesis,lagging strand synthesis,pathway
+476,Laminin interactions,laminin interactions,pathway
+477,Leading Strand Synthesis,leading strand synthesis,pathway
+478,Leishmania infection,leishmania infection,pathway
+479,Leishmania parasite growth and survival,leishmania parasite growth and survival,pathway
+480,Leishmania phagocytosis,leishmania phagocytosis,pathway
+481,Listeria monocytogenes entry into host cells,listeria monocytogenes entry into host cells,pathway
+482,Long-term potentiation,long-term potentiation,pathway
+483,Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling,loss of function of fbxw7 in cancer and notch1 signaling,pathway
+484,Loss of Function of TGFBR1 in Cancer,loss of function of tgfbr1 in cancer,pathway
+485,Loss of MECP2 binding ability to 5mC-DNA,loss of mecp2 binding ability to 5mc-dna,pathway
+486,Loss of Nlp from mitotic centrosomes,loss of nlp from mitotic centrosomes,pathway
+487,Loss of function of MECP2 in Rett syndrome,loss of function of mecp2 in rett syndrome,pathway
+488,Loss of proteins required for interphase microtubule organization from the centrosome,loss of proteins required for interphase microtubule organization from the centrosome,pathway
+489,Lysosome Vesicle Biogenesis,lysosome vesicle biogenesis,pathway
+490,M Phase,m phase,pathway
+491,MAP kinase activation,map kinase activation,pathway
+492,MAP2K and MAPK activation,map2k and mapk activation,pathway
+493,MAP3K8 (TPL2)-dependent MAPK1/3 activation,map3k8 (tpl2)-dependent mapk1/3 activation,pathway
+494,MAPK family signaling cascades,mapk family signaling cascades,pathway
+495,MAPK targets/ Nuclear events mediated by MAP kinases,mapk targets/ nuclear events mediated by map kinases,pathway
+496,MAPK1 (ERK2) activation,mapk1 (erk2) activation,pathway
+497,MAPK1/MAPK3 signaling,mapk1/mapk3 signaling,pathway
+498,MAPK3 (ERK1) activation,mapk3 (erk1) activation,pathway
+499,MECP2 regulates neuronal receptors and channels,mecp2 regulates neuronal receptors and channels,pathway
+500,MECP2 regulates transcription of neuronal ligands,mecp2 regulates transcription of neuronal ligands,pathway
+501,MET activates PI3K/AKT signaling,met activates pi3k/akt signaling,pathway
+502,MET activates PTK2 signaling,met activates ptk2 signaling,pathway
+503,MET activates STAT3,met activates stat3,pathway
+504,MET promotes cell motility,met promotes cell motility,pathway
+505,MHC class II antigen presentation,mhc class ii antigen presentation,pathway
+506,MITF-M-dependent gene expression,mitf-m-dependent gene expression,pathway
+507,MITF-M-regulated melanocyte development,mitf-m-regulated melanocyte development,pathway
+508,MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis,mll4 and mll3 complexes regulate expression of pparg target genes in adipogenesis and hepatic steatosis,pathway
+509,MTOR signalling,mtor signalling,pathway
+510,Macroautophagy,macroautophagy,pathway
+511,Masitinib-resistant KIT mutants,masitinib-resistant kit mutants,pathway
+512,Maternal to zygotic transition (MZT),maternal to zygotic transition (mzt),pathway
+513,Mechanical load activates signaling by PIEZO1 and integrins in osteocytes,mechanical load activates signaling by piezo1 and integrins in osteocytes,pathway
+514,Meiosis,meiosis,pathway
+515,Meiotic recombination,meiotic recombination,pathway
+516,Membrane Trafficking,membrane trafficking,pathway
+517,Metabolic disorders of biological oxidation enzymes,metabolic disorders of biological oxidation enzymes,pathway
+518,Metabolism,metabolism,pathway
+519,Metabolism of RNA,metabolism of rna,pathway
+520,Metabolism of amino acids and derivatives,metabolism of amino acids and derivatives,pathway
+521,Metabolism of carbohydrates and carbohydrate derivatives,metabolism of carbohydrates and carbohydrate derivatives,pathway
+522,Metabolism of cofactors,metabolism of cofactors,pathway
+523,"Metabolism of ingested SeMet, Sec, MeSec into H2Se","metabolism of ingested semet, sec, mesec into h2se",pathway
+524,Metabolism of lipids,metabolism of lipids,pathway
+525,Metabolism of nitric oxide: NOS3 activation and regulation,metabolism of nitric oxide: nos3 activation and regulation,pathway
+526,Metabolism of nucleotides,metabolism of nucleotides,pathway
+527,Metabolism of porphyrins,metabolism of porphyrins,pathway
+528,Metabolism of proteins,metabolism of proteins,pathway
+529,Metabolism of steroid hormones,metabolism of steroid hormones,pathway
+530,Metabolism of steroids,metabolism of steroids,pathway
+531,Metabolism of vitamins and cofactors,metabolism of vitamins and cofactors,pathway
+532,Metabolism of water-soluble vitamins and cofactors,metabolism of water-soluble vitamins and cofactors,pathway
+533,Metallothioneins bind metals,metallothioneins bind metals,pathway
+534,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane,microtubule-dependent trafficking of connexons from golgi to the plasma membrane,pathway
+535,Mismatch Repair,mismatch repair,pathway
+536,Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta),mismatch repair (mmr) directed by msh2:msh3 (mutsbeta),pathway
+537,Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha),mismatch repair (mmr) directed by msh2:msh6 (mutsalpha),pathway
+538,Mitochondrial biogenesis,mitochondrial biogenesis,pathway
+539,Mitochondrial unfolded protein response (UPRmt),mitochondrial unfolded protein response (uprmt),pathway
+540,Mitophagy,mitophagy,pathway
+541,Mitotic Anaphase,mitotic anaphase,pathway
+542,Mitotic G1 phase and G1/S transition,mitotic g1 phase and g1/s transition,pathway
+543,Mitotic G2-G2/M phases,mitotic g2-g2/m phases,pathway
+544,Mitotic Metaphase and Anaphase,mitotic metaphase and anaphase,pathway
+545,Mitotic Metaphase/Anaphase Transition,mitotic metaphase/anaphase transition,pathway
+546,Mitotic Prometaphase,mitotic prometaphase,pathway
+547,Mitotic Prophase,mitotic prophase,pathway
+548,Mitotic Spindle Checkpoint,mitotic spindle checkpoint,pathway
+549,Mitotic Telophase/Cytokinesis,mitotic telophase/cytokinesis,pathway
+550,Molecules associated with elastic fibres,molecules associated with elastic fibres,pathway
+551,Muscle contraction,muscle contraction,pathway
+552,MyD88 cascade initiated on plasma membrane,myd88 cascade initiated on plasma membrane,pathway
+553,MyD88 deficiency (TLR2/4),myd88 deficiency (tlr2/4),pathway
+554,MyD88 dependent cascade initiated on endosome,myd88 dependent cascade initiated on endosome,pathway
+555,MyD88-independent TLR4 cascade ,myd88-independent tlr4 cascade,pathway
+556,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,myd88:mal(tirap) cascade initiated on plasma membrane,pathway
+557,Myogenesis,myogenesis,pathway
+558,NCAM signaling for neurite out-growth,ncam signaling for neurite out-growth,pathway
+559,NCAM1 interactions,ncam1 interactions,pathway
+560,NFE2L2 regulating MDR associated enzymes,nfe2l2 regulating mdr associated enzymes,pathway
+561,NFE2L2 regulating anti-oxidant/detoxification enzymes,nfe2l2 regulating anti-oxidant/detoxification enzymes,pathway
+562,NFE2L2 regulating tumorigenic genes,nfe2l2 regulating tumorigenic genes,pathway
+563,NGF-independant TRKA activation,ngf-independant trka activation,pathway
+564,NGF-stimulated transcription,ngf-stimulated transcription,pathway
+565,NOD1/2 Signaling Pathway,nod1/2 signaling pathway,pathway
+566,NOTCH1 Intracellular Domain Regulates Transcription,notch1 intracellular domain regulates transcription,pathway
+567,NOTCH2 Activation and Transmission of Signal to the Nucleus,notch2 activation and transmission of signal to the nucleus,pathway
+568,NOTCH3 Activation and Transmission of Signal to the Nucleus,notch3 activation and transmission of signal to the nucleus,pathway
+569,NOTCH4 Intracellular Domain Regulates Transcription,notch4 intracellular domain regulates transcription,pathway
+570,NPAS4 regulates expression of target genes,npas4 regulates expression of target genes,pathway
+571,Neddylation,neddylation,pathway
+572,Negative Regulation of CDH1 Gene Transcription,negative regulation of cdh1 gene transcription,pathway
+573,Negative epigenetic regulation of rRNA expression,negative epigenetic regulation of rrna expression,pathway
+574,Negative feedback regulation of MAPK pathway,negative feedback regulation of mapk pathway,pathway
+575,Negative regulation of FGFR1 signaling,negative regulation of fgfr1 signaling,pathway
+576,Negative regulation of FGFR2 signaling,negative regulation of fgfr2 signaling,pathway
+577,Negative regulation of FGFR3 signaling,negative regulation of fgfr3 signaling,pathway
+578,Negative regulation of FGFR4 signaling,negative regulation of fgfr4 signaling,pathway
+579,Negative regulation of FLT3,negative regulation of flt3,pathway
+580,Negative regulation of MAPK pathway,negative regulation of mapk pathway,pathway
+581,Negative regulation of MET activity,negative regulation of met activity,pathway
+582,Negative regulation of NMDA receptor-mediated neuronal transmission,negative regulation of nmda receptor-mediated neuronal transmission,pathway
+583,Negative regulation of NOTCH4 signaling,negative regulation of notch4 signaling,pathway
+584,Negative regulation of the PI3K/AKT network,negative regulation of the pi3k/akt network,pathway
+585,Nephrin family interactions,nephrin family interactions,pathway
+586,Nervous system development,nervous system development,pathway
+587,Netrin mediated repulsion signals,netrin mediated repulsion signals,pathway
+588,Netrin-1 signaling,netrin-1 signaling,pathway
+589,Neurexins and neuroligins,neurexins and neuroligins,pathway
+590,Neurofascin interactions,neurofascin interactions,pathway
+591,Neuronal System,neuronal system,pathway
+592,Neurophilin interactions with VEGF and VEGFR,neurophilin interactions with vegf and vegfr,pathway
+593,Neurotoxicity of clostridium toxins,neurotoxicity of clostridium toxins,pathway
+594,Neurotransmitter receptors and postsynaptic signal transmission,neurotransmitter receptors and postsynaptic signal transmission,pathway
+595,Neurotransmitter release cycle,neurotransmitter release cycle,pathway
+596,Neutrophil degranulation,neutrophil degranulation,pathway
+597,Nicotinate metabolism,nicotinate metabolism,pathway
+598,Nilotinib-resistant KIT mutants,nilotinib-resistant kit mutants,pathway
+599,NoRC negatively regulates rRNA expression,norc negatively regulates rrna expression,pathway
+600,Non-canonical inflammasome activation,non-canonical inflammasome activation,pathway
+601,Non-integrin membrane-ECM interactions,non-integrin membrane-ecm interactions,pathway
+602,Norepinephrine Neurotransmitter Release Cycle,norepinephrine neurotransmitter release cycle,pathway
+603,Notch-HLH transcription pathway,notch-hlh transcription pathway,pathway
+604,Nuclear Envelope (NE) Reassembly,nuclear envelope (ne) reassembly,pathway
+605,Nuclear Envelope Breakdown,nuclear envelope breakdown,pathway
+606,Nuclear Events (kinase and transcription factor activation),nuclear events (kinase and transcription factor activation),pathway
+607,Nuclear Receptor transcription pathway,nuclear receptor transcription pathway,pathway
+608,Nuclear events mediated by NFE2L2,nuclear events mediated by nfe2l2,pathway
+609,Nuclear events stimulated by ALK signaling in cancer,nuclear events stimulated by alk signaling in cancer,pathway
+610,Nuclear import of Rev protein,nuclear import of rev protein,pathway
+611,Nuclear signaling by ERBB4,nuclear signaling by erbb4,pathway
+612,Nucleosome assembly,nucleosome assembly,pathway
+613,Nucleotide Excision Repair,nucleotide excision repair,pathway
+614,Nucleotide biosynthesis,nucleotide biosynthesis,pathway
+615,"Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways","nucleotide-binding domain, leucine rich repeat containing receptor (nlr) signaling pathways",pathway
+616,O-glycosylation of TSR domain-containing proteins,o-glycosylation of tsr domain-containing proteins,pathway
+617,O-linked glycosylation,o-linked glycosylation,pathway
+618,Oncogene Induced Senescence,oncogene induced senescence,pathway
+619,Oncogenic MAPK signaling,oncogenic mapk signaling,pathway
+620,Opioid Signalling,opioid signalling,pathway
+621,Orc1 removal from chromatin,orc1 removal from chromatin,pathway
+622,Organelle biogenesis and maintenance,organelle biogenesis and maintenance,pathway
+623,Other interleukin signaling,other interleukin signaling,pathway
+624,Ovarian tumor domain proteases,ovarian tumor domain proteases,pathway
+625,Oxidative Stress Induced Senescence,oxidative stress induced senescence,pathway
+626,Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha,oxygen-dependent proline hydroxylation of hypoxia-inducible factor alpha,pathway
+627,PCNA-Dependent Long Patch Base Excision Repair,pcna-dependent long patch base excision repair,pathway
+628,PCP/CE pathway,pcp/ce pathway,pathway
+629,PDGFR mutants bind TKIs,pdgfr mutants bind tkis,pathway
+630,PECAM1 interactions,pecam1 interactions,pathway
+631,PI Metabolism,pi metabolism,pathway
+632,PI-3K cascade:FGFR1,pi-3k cascade:fgfr1,pathway
+633,PI-3K cascade:FGFR2,pi-3k cascade:fgfr2,pathway
+634,PI-3K cascade:FGFR3,pi-3k cascade:fgfr3,pathway
+635,PI-3K cascade:FGFR4,pi-3k cascade:fgfr4,pathway
+636,PI3K Cascade,pi3k cascade,pathway
+637,PI3K events in ERBB2 signaling,pi3k events in erbb2 signaling,pathway
+638,PI3K events in ERBB4 signaling,pi3k events in erbb4 signaling,pathway
+639,PI3K/AKT Signaling in Cancer,pi3k/akt signaling in cancer,pathway
+640,PI3K/AKT activation,pi3k/akt activation,pathway
+641,"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling","pi5p, pp2a and ier3 regulate pi3k/akt signaling",pathway
+642,PIP3 activates AKT signaling,pip3 activates akt signaling,pathway
+643,PIWI-interacting RNA (piRNA) biogenesis,piwi-interacting rna (pirna) biogenesis,pathway
+644,PKR-mediated signaling,pkr-mediated signaling,pathway
+645,PLC-gamma1 signalling,plc-gamma1 signalling,pathway
+646,PLCG1 events in ERBB2 signaling,plcg1 events in erbb2 signaling,pathway
+647,POLB-Dependent Long Patch Base Excision Repair,polb-dependent long patch base excision repair,pathway
+648,PPARA activates gene expression,ppara activates gene expression,pathway
+649,PRC2 methylates histones and DNA,prc2 methylates histones and dna,pathway
+650,PTEN Regulation,pten regulation,pathway
+651,PTK6 Expression,ptk6 expression,pathway
+652,PTK6 Regulates Cell Cycle,ptk6 regulates cell cycle,pathway
+653,PTK6 promotes HIF1A stabilization,ptk6 promotes hif1a stabilization,pathway
+654,Paracetamol ADME,paracetamol adme,pathway
+655,Paradoxical activation of RAF signaling by kinase inactive BRAF,paradoxical activation of raf signaling by kinase inactive braf,pathway
+656,Parasite infection,parasite infection,pathway
+657,Parasitic Infection Pathways,parasitic infection pathways,pathway
+658,Peptide hormone metabolism,peptide hormone metabolism,pathway
+659,Peptide ligand-binding receptors,peptide ligand-binding receptors,pathway
+660,Pervasive developmental disorders,pervasive developmental disorders,pathway
+661,Phase 0 - rapid depolarisation,phase 0 - rapid depolarisation,pathway
+662,Phase 4 - resting membrane potential,phase 4 - resting membrane potential,pathway
+663,Phase I - Functionalization of compounds,phase i - functionalization of compounds,pathway
+664,Phase II - Conjugation of compounds,phase ii - conjugation of compounds,pathway
+665,Phospholipase C-mediated cascade: FGFR1,phospholipase c-mediated cascade: fgfr1,pathway
+666,Phospholipase C-mediated cascade; FGFR2,phospholipase c-mediated cascade; fgfr2,pathway
+667,Phospholipase C-mediated cascade; FGFR3,phospholipase c-mediated cascade; fgfr3,pathway
+668,Phospholipid metabolism,phospholipid metabolism,pathway
+669,Phosphorylation of Emi1,phosphorylation of emi1,pathway
+670,Phosphorylation of the APC/C,phosphorylation of the apc/c,pathway
+671,Platelet Aggregation (Plug Formation),platelet aggregation (plug formation),pathway
+672,"Platelet activation, signaling and aggregation","platelet activation, signaling and aggregation",pathway
+673,Platelet degranulation ,platelet degranulation,pathway
+674,Platelet homeostasis,platelet homeostasis,pathway
+675,Polo-like kinase mediated events,polo-like kinase mediated events,pathway
+676,Polymerase switching,polymerase switching,pathway
+677,Polymerase switching on the C-strand of the telomere,polymerase switching on the c-strand of the telomere,pathway
+678,Positive epigenetic regulation of rRNA expression,positive epigenetic regulation of rrna expression,pathway
+679,Post NMDA receptor activation events,post nmda receptor activation events,pathway
+680,Post-chaperonin tubulin folding pathway,post-chaperonin tubulin folding pathway,pathway
+681,Post-translational modification: synthesis of GPI-anchored proteins,post-translational modification: synthesis of gpi-anchored proteins,pathway
+682,Post-translational protein modification,post-translational protein modification,pathway
+683,Post-translational protein phosphorylation,post-translational protein phosphorylation,pathway
+684,Potassium Channels,potassium channels,pathway
+685,Potential therapeutics for SARS,potential therapeutics for sars,pathway
+686,Pre-NOTCH Expression and Processing,pre-notch expression and processing,pathway
+687,Pre-NOTCH Transcription and Translation,pre-notch transcription and translation,pathway
+688,Prefoldin mediated transfer of substrate  to CCT/TriC,prefoldin mediated transfer of substrate to cct/tric,pathway
+689,Presynaptic function of Kainate receptors,presynaptic function of kainate receptors,pathway
+690,Processive synthesis on the C-strand of the telomere,processive synthesis on the c-strand of the telomere,pathway
+691,Processive synthesis on the lagging strand,processive synthesis on the lagging strand,pathway
+692,Programmed Cell Death,programmed cell death,pathway
+693,Prolactin receptor signaling,prolactin receptor signaling,pathway
+694,Prolonged ERK activation events,prolonged erk activation events,pathway
+695,Prostacyclin signalling through prostacyclin receptor,prostacyclin signalling through prostacyclin receptor,pathway
+696,Protein folding,protein folding,pathway
+697,Protein-protein interactions at synapses,protein-protein interactions at synapses,pathway
+698,Purine ribonucleoside monophosphate biosynthesis,purine ribonucleoside monophosphate biosynthesis,pathway
+699,Purinergic signaling in leishmaniasis infection,purinergic signaling in leishmaniasis infection,pathway
+700,Pyroptosis,pyroptosis,pathway
+701,RAB GEFs exchange GTP for GDP on RABs,rab gefs exchange gtp for gdp on rabs,pathway
+702,RAB geranylgeranylation,rab geranylgeranylation,pathway
+703,RAC1 GTPase cycle,rac1 gtpase cycle,pathway
+704,RAC2 GTPase cycle,rac2 gtpase cycle,pathway
+705,RAC3 GTPase cycle,rac3 gtpase cycle,pathway
+706,RAF activation,raf activation,pathway
+707,RAF-independent MAPK1/3 activation,raf-independent mapk1/3 activation,pathway
+708,RAF/MAP kinase cascade,raf/map kinase cascade,pathway
+709,RAS processing,ras processing,pathway
+710,RET signaling,ret signaling,pathway
+711,RHO GTPase Effectors,rho gtpase effectors,pathway
+712,RHO GTPase cycle,rho gtpase cycle,pathway
+713,RHO GTPases Activate Formins,rho gtpases activate formins,pathway
+714,RHO GTPases Activate NADPH Oxidases,rho gtpases activate nadph oxidases,pathway
+715,RHO GTPases Activate ROCKs,rho gtpases activate rocks,pathway
+716,RHO GTPases Activate WASPs and WAVEs,rho gtpases activate wasps and waves,pathway
+717,RHO GTPases activate CIT,rho gtpases activate cit,pathway
+718,RHO GTPases activate IQGAPs,rho gtpases activate iqgaps,pathway
+719,RHO GTPases activate PKNs,rho gtpases activate pkns,pathway
+720,RHOA GTPase cycle,rhoa gtpase cycle,pathway
+721,RHOB GTPase cycle,rhob gtpase cycle,pathway
+722,RHOBTB GTPase Cycle,rhobtb gtpase cycle,pathway
+723,RHOBTB2 GTPase cycle,rhobtb2 gtpase cycle,pathway
+724,RHOC GTPase cycle,rhoc gtpase cycle,pathway
+725,RHOD GTPase cycle,rhod gtpase cycle,pathway
+726,RHOF GTPase cycle,rhof gtpase cycle,pathway
+727,RHOG GTPase cycle,rhog gtpase cycle,pathway
+728,RHOH GTPase cycle,rhoh gtpase cycle,pathway
+729,RHOJ GTPase cycle,rhoj gtpase cycle,pathway
+730,RHOQ GTPase cycle,rhoq gtpase cycle,pathway
+731,RHOU GTPase cycle,rhou gtpase cycle,pathway
+732,RHOV GTPase cycle,rhov gtpase cycle,pathway
+733,RIPK1-mediated regulated necrosis,ripk1-mediated regulated necrosis,pathway
+734,RMTs methylate histone arginines,rmts methylate histone arginines,pathway
+735,RNA Polymerase I Promoter Clearance,rna polymerase i promoter clearance,pathway
+736,RNA Polymerase I Promoter Escape,rna polymerase i promoter escape,pathway
+737,RNA Polymerase I Transcription,rna polymerase i transcription,pathway
+738,RNA Polymerase I Transcription Initiation,rna polymerase i transcription initiation,pathway
+739,RNA Polymerase I Transcription Termination,rna polymerase i transcription termination,pathway
+740,RNA Polymerase II Transcription,rna polymerase ii transcription,pathway
+741,RNA polymerase II transcribes snRNA genes,rna polymerase ii transcribes snrna genes,pathway
+742,RND1 GTPase cycle,rnd1 gtpase cycle,pathway
+743,RND2 GTPase cycle,rnd2 gtpase cycle,pathway
+744,RND3 GTPase cycle,rnd3 gtpase cycle,pathway
+745,RSV-host interactions,rsv-host interactions,pathway
+746,RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known,runx1 interacts with co-factors whose precise effect on runx1 targets is not known,pathway
+747,RUNX1 regulates estrogen receptor mediated transcription,runx1 regulates estrogen receptor mediated transcription,pathway
+748,RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function,runx1 regulates genes involved in megakaryocyte differentiation and platelet function,pathway
+749,RUNX1 regulates transcription of genes involved in WNT signaling,runx1 regulates transcription of genes involved in wnt signaling,pathway
+750,RUNX1 regulates transcription of genes involved in differentiation of HSCs,runx1 regulates transcription of genes involved in differentiation of hscs,pathway
+751,RUNX2 regulates bone development,runx2 regulates bone development,pathway
+752,RUNX2 regulates osteoblast differentiation,runx2 regulates osteoblast differentiation,pathway
+753,RUNX3 regulates WNT signaling,runx3 regulates wnt signaling,pathway
+754,RUNX3 regulates YAP1-mediated transcription,runx3 regulates yap1-mediated transcription,pathway
+755,RUNX3 regulates p14-ARF,runx3 regulates p14-arf,pathway
+756,Rab regulation of trafficking,rab regulation of trafficking,pathway
+757,Rap1 signalling,rap1 signalling,pathway
+758,Receptor Mediated Mitophagy,receptor mediated mitophagy,pathway
+759,Recognition of DNA damage by PCNA-containing replication complex,recognition of dna damage by pcna-containing replication complex,pathway
+760,Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks,recruitment and atm-mediated phosphorylation of repair and signaling proteins at dna double strand breaks,pathway
+761,Recruitment of NuMA to mitotic centrosomes,recruitment of numa to mitotic centrosomes,pathway
+762,Recruitment of mitotic centrosome proteins and complexes,recruitment of mitotic centrosome proteins and complexes,pathway
+763,Recycling pathway of L1,recycling pathway of l1,pathway
+764,Regorafenib-resistant KIT mutants,regorafenib-resistant kit mutants,pathway
+765,Regorafenib-resistant PDGFR mutants,regorafenib-resistant pdgfr mutants,pathway
+766,Regulated Necrosis,regulated necrosis,pathway
+767,Regulation of APC/C activators between G1/S and early anaphase,regulation of apc/c activators between g1/s and early anaphase,pathway
+768,Regulation of BACH1 activity,regulation of bach1 activity,pathway
+769,Regulation of CDH1 Expression and Function,regulation of cdh1 expression and function,pathway
+770,Regulation of CDH1 Function,regulation of cdh1 function,pathway
+771,Regulation of CDH1 Gene Transcription,regulation of cdh1 gene transcription,pathway
+772,Regulation of Complement cascade,regulation of complement cascade,pathway
+773,Regulation of Expression and Function of Type I Classical Cadherins,regulation of expression and function of type i classical cadherins,pathway
+774,Regulation of Homotypic Cell-Cell Adhesion,regulation of homotypic cell-cell adhesion,pathway
+775,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),regulation of insulin-like growth factor (igf) transport and uptake by insulin-like growth factor binding proteins (igfbps),pathway
+776,Regulation of KIT signaling,regulation of kit signaling,pathway
+777,Regulation of MECP2 expression and activity,regulation of mecp2 expression and activity,pathway
+778,Regulation of MITF-M-dependent genes involved in apoptosis,regulation of mitf-m-dependent genes involved in apoptosis,pathway
+779,Regulation of MITF-M-dependent genes involved in cell cycle and proliferation,regulation of mitf-m-dependent genes involved in cell cycle and proliferation,pathway
+780,Regulation of NPAS4 gene expression,regulation of npas4 gene expression,pathway
+781,Regulation of NPAS4 gene transcription,regulation of npas4 gene transcription,pathway
+782,Regulation of PD-L1(CD274) Post-translational modification,regulation of pd-l1(cd274) post-translational modification,pathway
+783,Regulation of PD-L1(CD274) expression,regulation of pd-l1(cd274) expression,pathway
+784,Regulation of PD-L1(CD274) transcription,regulation of pd-l1(cd274) transcription,pathway
+785,Regulation of PLK1 Activity at G2/M Transition,regulation of plk1 activity at g2/m transition,pathway
+786,Regulation of PTEN gene transcription,regulation of pten gene transcription,pathway
+787,Regulation of PTEN stability and activity,regulation of pten stability and activity,pathway
+788,Regulation of RAS by GAPs,regulation of ras by gaps,pathway
+789,Regulation of RUNX1 Expression and Activity,regulation of runx1 expression and activity,pathway
+790,Regulation of RUNX2 expression and activity,regulation of runx2 expression and activity,pathway
+791,Regulation of RUNX3 expression and activity,regulation of runx3 expression and activity,pathway
+792,Regulation of T cell activation by CD28 family,regulation of t cell activation by cd28 family,pathway
+793,Regulation of TP53 Activity,regulation of tp53 activity,pathway
+794,Regulation of TP53 Activity through Acetylation,regulation of tp53 activity through acetylation,pathway
+795,Regulation of TP53 Activity through Phosphorylation,regulation of tp53 activity through phosphorylation,pathway
+796,Regulation of TP53 Degradation,regulation of tp53 degradation,pathway
+797,Regulation of TP53 Expression and Degradation,regulation of tp53 expression and degradation,pathway
+798,Regulation of actin dynamics for phagocytic cup formation,regulation of actin dynamics for phagocytic cup formation,pathway
+799,Regulation of beta-cell development,regulation of beta-cell development,pathway
+800,Regulation of commissural axon pathfinding by SLIT and ROBO,regulation of commissural axon pathfinding by slit and robo,pathway
+801,Regulation of endogenous retroelements,regulation of endogenous retroelements,pathway
+802,Regulation of endogenous retroelements by KRAB-ZFP proteins,regulation of endogenous retroelements by krab-zfp proteins,pathway
+803,Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs),regulation of endogenous retroelements by piwi-interacting rnas (pirnas),pathway
+804,Regulation of expression of SLITs and ROBOs,regulation of expression of slits and robos,pathway
+805,Regulation of gap junction activity,regulation of gap junction activity,pathway
+806,Regulation of insulin secretion,regulation of insulin secretion,pathway
+807,Regulation of lipid metabolism by PPARalpha,regulation of lipid metabolism by pparalpha,pathway
+808,Regulation of mRNA stability by proteins that bind AU-rich elements,regulation of mrna stability by proteins that bind au-rich elements,pathway
+809,Regulation of mitotic cell cycle,regulation of mitotic cell cycle,pathway
+810,Regulation of necroptotic cell death,regulation of necroptotic cell death,pathway
+811,Regulation of signaling by CBL,regulation of signaling by cbl,pathway
+812,Removal of the Flap Intermediate,removal of the flap intermediate,pathway
+813,Removal of the Flap Intermediate from the C-strand,removal of the flap intermediate from the c-strand,pathway
+814,Repression of WNT target genes,repression of wnt target genes,pathway
+815,Reproduction,reproduction,pathway
+816,Resistance of ERBB2 KD mutants to AEE788,resistance of erbb2 kd mutants to aee788,pathway
+817,Resistance of ERBB2 KD mutants to afatinib,resistance of erbb2 kd mutants to afatinib,pathway
+818,Resistance of ERBB2 KD mutants to lapatinib,resistance of erbb2 kd mutants to lapatinib,pathway
+819,Resistance of ERBB2 KD mutants to neratinib,resistance of erbb2 kd mutants to neratinib,pathway
+820,Resistance of ERBB2 KD mutants to osimertinib,resistance of erbb2 kd mutants to osimertinib,pathway
+821,Resistance of ERBB2 KD mutants to sapitinib,resistance of erbb2 kd mutants to sapitinib,pathway
+822,Resistance of ERBB2 KD mutants to tesevatinib,resistance of erbb2 kd mutants to tesevatinib,pathway
+823,Resistance of ERBB2 KD mutants to trastuzumab,resistance of erbb2 kd mutants to trastuzumab,pathway
+824,Resolution of AP sites via the multiple-nucleotide patch replacement pathway,resolution of ap sites via the multiple-nucleotide patch replacement pathway,pathway
+825,Resolution of Abasic Sites (AP sites),resolution of abasic sites (ap sites),pathway
+826,Resolution of Sister Chromatid Cohesion,resolution of sister chromatid cohesion,pathway
+827,Respiratory Syncytial Virus Infection Pathway,respiratory syncytial virus infection pathway,pathway
+828,Respiratory syncytial virus (RSV) attachment and entry,respiratory syncytial virus (rsv) attachment and entry,pathway
+829,"Respiratory syncytial virus (RSV) genome replication, transcription and translation","respiratory syncytial virus (rsv) genome replication, transcription and translation",pathway
+830,Respiratory syncytial virus genome replication,respiratory syncytial virus genome replication,pathway
+831,Response of endothelial cells to shear stress,response of endothelial cells to shear stress,pathway
+832,Response to elevated platelet cytosolic Ca2+,response to elevated platelet cytosolic ca2+,pathway
+833,Response to metal ions,response to metal ions,pathway
+834,Retrograde neurotrophin signalling,retrograde neurotrophin signalling,pathway
+835,Ribosome Quality Control (RQC) complex extracts and degrades nascent peptide,ribosome quality control (rqc) complex extracts and degrades nascent peptide,pathway
+836,Ribosome-associated quality control,ribosome-associated quality control,pathway
+837,Role of ABL in ROBO-SLIT signaling,role of abl in robo-slit signaling,pathway
+838,Role of LAT2/NTAL/LAB on calcium mobilization,role of lat2/ntal/lab on calcium mobilization,pathway
+839,Role of phospholipids in phagocytosis,role of phospholipids in phagocytosis,pathway
+840,S Phase,s phase,pathway
+841,SARS-CoV Infections,sars-cov infections,pathway
+842,SARS-CoV-1 Infection,sars-cov-1 infection,pathway
+843,SARS-CoV-1 activates/modulates innate immune responses,sars-cov-1 activates/modulates innate immune responses,pathway
+844,SARS-CoV-1-host interactions,sars-cov-1-host interactions,pathway
+845,SARS-CoV-1-mediated effects on programmed cell death,sars-cov-1-mediated effects on programmed cell death,pathway
+846,SARS-CoV-2 Infection,sars-cov-2 infection,pathway
+847,SARS-CoV-2 activates/modulates innate and adaptive immune responses,sars-cov-2 activates/modulates innate and adaptive immune responses,pathway
+848,SARS-CoV-2 targets host intracellular signalling and regulatory pathways,sars-cov-2 targets host intracellular signalling and regulatory pathways,pathway
+849,SARS-CoV-2-host interactions,sars-cov-2-host interactions,pathway
+850,SCF(Skp2)-mediated degradation of p27/p21,scf(skp2)-mediated degradation of p27/p21,pathway
+851,SHC-mediated cascade:FGFR1,shc-mediated cascade:fgfr1,pathway
+852,SHC-mediated cascade:FGFR2,shc-mediated cascade:fgfr2,pathway
+853,SHC-mediated cascade:FGFR3,shc-mediated cascade:fgfr3,pathway
+854,SHC1 events in EGFR signaling,shc1 events in egfr signaling,pathway
+855,SHC1 events in ERBB2 signaling,shc1 events in erbb2 signaling,pathway
+856,SHC1 events in ERBB4 signaling,shc1 events in erbb4 signaling,pathway
+857,SHOC2 M1731 mutant abolishes MRAS complex function,shoc2 m1731 mutant abolishes mras complex function,pathway
+858,SLC-mediated transmembrane transport,slc-mediated transmembrane transport,pathway
+859,SLC-mediated transport of amino acids,slc-mediated transport of amino acids,pathway
+860,SLC-mediated transport of organic anions,slc-mediated transport of organic anions,pathway
+861,SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription,smad2/smad3:smad4 heterotrimer regulates transcription,pathway
+862,SPOP-mediated proteasomal degradation of PD-L1(CD274),spop-mediated proteasomal degradation of pd-l1(cd274),pathway
+863,STAT3 nuclear events downstream of ALK signaling,stat3 nuclear events downstream of alk signaling,pathway
+864,STAT5 Activation,stat5 activation,pathway
+865,STAT5 activation downstream of FLT3 ITD mutants,stat5 activation downstream of flt3 itd mutants,pathway
+866,SUMO E3 ligases SUMOylate target proteins,sumo e3 ligases sumoylate target proteins,pathway
+867,SUMOylation,sumoylation,pathway
+868,SUMOylation of DNA damage response and repair proteins,sumoylation of dna damage response and repair proteins,pathway
+869,SUMOylation of DNA methylation proteins,sumoylation of dna methylation proteins,pathway
+870,SUMOylation of DNA replication proteins,sumoylation of dna replication proteins,pathway
+871,SUMOylation of chromatin organization proteins,sumoylation of chromatin organization proteins,pathway
+872,SUMOylation of intracellular receptors,sumoylation of intracellular receptors,pathway
+873,SUMOylation of transcription cofactors,sumoylation of transcription cofactors,pathway
+874,SWI/SNF chromatin remodelers,swi/snf chromatin remodelers,pathway
+875,Scavenging by Class F Receptors,scavenging by class f receptors,pathway
+876,Sealing of the nuclear envelope (NE) by ESCRT-III,sealing of the nuclear envelope (ne) by escrt-iii,pathway
+877,Selective autophagy,selective autophagy,pathway
+878,Selenoamino acid metabolism,selenoamino acid metabolism,pathway
+879,Sema3A PAK dependent Axon repulsion,sema3a pak dependent axon repulsion,pathway
+880,Sema4D in semaphorin signaling,sema4d in semaphorin signaling,pathway
+881,Sema4D induced cell migration and growth-cone collapse,sema4d induced cell migration and growth-cone collapse,pathway
+882,Sema4D mediated inhibition of cell attachment and migration,sema4d mediated inhibition of cell attachment and migration,pathway
+883,Semaphorin interactions,semaphorin interactions,pathway
+884,Senescence-Associated Secretory Phenotype (SASP),senescence-associated secretory phenotype (sasp),pathway
+885,Sensory Perception,sensory perception,pathway
+886,Sensory processing of sound,sensory processing of sound,pathway
+887,Sensory processing of sound by inner hair cells of the cochlea,sensory processing of sound by inner hair cells of the cochlea,pathway
+888,Separation of Sister Chromatids,separation of sister chromatids,pathway
+889,Serotonin Neurotransmitter Release Cycle,serotonin neurotransmitter release cycle,pathway
+890,Signal Transduction,signal transduction,pathway
+891,Signal amplification,signal amplification,pathway
+892,Signal regulatory protein family interactions,signal regulatory protein family interactions,pathway
+893,Signal transduction by L1,signal transduction by l1,pathway
+894,Signaling by ALK,signaling by alk,pathway
+895,Signaling by ALK fusions and activated point mutants,signaling by alk fusions and activated point mutants,pathway
+896,Signaling by ALK in cancer,signaling by alk in cancer,pathway
+897,Signaling by BRAF and RAF1 fusions,signaling by braf and raf1 fusions,pathway
+898,Signaling by CSF1 (M-CSF) in myeloid cells,signaling by csf1 (m-csf) in myeloid cells,pathway
+899,Signaling by EGFR,signaling by egfr,pathway
+900,Signaling by EGFR in Cancer,signaling by egfr in cancer,pathway
+901,Signaling by EGFRvIII in Cancer,signaling by egfrviii in cancer,pathway
+902,Signaling by ERBB2,signaling by erbb2,pathway
+903,Signaling by ERBB2 ECD mutants,signaling by erbb2 ecd mutants,pathway
+904,Signaling by ERBB2 KD Mutants,signaling by erbb2 kd mutants,pathway
+905,Signaling by ERBB2 TMD/JMD mutants,signaling by erbb2 tmd/jmd mutants,pathway
+906,Signaling by ERBB2 in Cancer,signaling by erbb2 in cancer,pathway
+907,Signaling by ERBB4,signaling by erbb4,pathway
+908,Signaling by Erythropoietin,signaling by erythropoietin,pathway
+909,Signaling by FGFR,signaling by fgfr,pathway
+910,Signaling by FGFR in disease,signaling by fgfr in disease,pathway
+911,Signaling by FGFR1,signaling by fgfr1,pathway
+912,Signaling by FGFR1 amplification mutants,signaling by fgfr1 amplification mutants,pathway
+913,Signaling by FGFR1 in disease,signaling by fgfr1 in disease,pathway
+914,Signaling by FGFR2,signaling by fgfr2,pathway
+915,Signaling by FGFR2 IIIa TM,signaling by fgfr2 iiia tm,pathway
+916,Signaling by FGFR2 amplification mutants,signaling by fgfr2 amplification mutants,pathway
+917,Signaling by FGFR2 fusions,signaling by fgfr2 fusions,pathway
+918,Signaling by FGFR2 in disease,signaling by fgfr2 in disease,pathway
+919,Signaling by FGFR3,signaling by fgfr3,pathway
+920,Signaling by FGFR3 fusions in cancer,signaling by fgfr3 fusions in cancer,pathway
+921,Signaling by FGFR3 in disease,signaling by fgfr3 in disease,pathway
+922,Signaling by FGFR4,signaling by fgfr4,pathway
+923,Signaling by FGFR4 in disease,signaling by fgfr4 in disease,pathway
+924,Signaling by FLT3 ITD and TKD mutants,signaling by flt3 itd and tkd mutants,pathway
+925,Signaling by FLT3 fusion proteins,signaling by flt3 fusion proteins,pathway
+926,Signaling by GPCR,signaling by gpcr,pathway
+927,Signaling by Hedgehog,signaling by hedgehog,pathway
+928,Signaling by Hippo,signaling by hippo,pathway
+929,Signaling by Insulin receptor,signaling by insulin receptor,pathway
+930,Signaling by Interleukins,signaling by interleukins,pathway
+931,Signaling by KIT in disease,signaling by kit in disease,pathway
+932,Signaling by LTK,signaling by ltk,pathway
+933,Signaling by LTK in cancer,signaling by ltk in cancer,pathway
+934,Signaling by Ligand-Responsive EGFR Variants in Cancer,signaling by ligand-responsive egfr variants in cancer,pathway
+935,Signaling by MAP2K mutants,signaling by map2k mutants,pathway
+936,Signaling by MET,signaling by met,pathway
+937,Signaling by MRAS-complex mutants,signaling by mras-complex mutants,pathway
+938,Signaling by MST1,signaling by mst1,pathway
+939,Signaling by NOTCH,signaling by notch,pathway
+940,Signaling by NOTCH1,signaling by notch1,pathway
+941,Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer,signaling by notch1 hd+pest domain mutants in cancer,pathway
+942,Signaling by NOTCH1 PEST Domain Mutants in Cancer,signaling by notch1 pest domain mutants in cancer,pathway
+943,Signaling by NOTCH1 in Cancer,signaling by notch1 in cancer,pathway
+944,Signaling by NOTCH2,signaling by notch2,pathway
+945,Signaling by NOTCH3,signaling by notch3,pathway
+946,Signaling by NOTCH4,signaling by notch4,pathway
+947,Signaling by NTRK1 (TRKA),signaling by ntrk1 (trka),pathway
+948,Signaling by NTRK2 (TRKB),signaling by ntrk2 (trkb),pathway
+949,Signaling by NTRK3 (TRKC),signaling by ntrk3 (trkc),pathway
+950,Signaling by NTRKs,signaling by ntrks,pathway
+951,Signaling by Non-Receptor Tyrosine Kinases,signaling by non-receptor tyrosine kinases,pathway
+952,Signaling by Nuclear Receptors,signaling by nuclear receptors,pathway
+953,Signaling by Overexpressed Wild-Type EGFR in Cancer,signaling by overexpressed wild-type egfr in cancer,pathway
+954,Signaling by PDGF,signaling by pdgf,pathway
+955,Signaling by PDGFR in disease,signaling by pdgfr in disease,pathway
+956,Signaling by PDGFRA extracellular domain mutants,signaling by pdgfra extracellular domain mutants,pathway
+957,"Signaling by PDGFRA transmembrane, juxtamembrane and kinase domain mutants","signaling by pdgfra transmembrane, juxtamembrane and kinase domain mutants",pathway
+958,Signaling by PTK6,signaling by ptk6,pathway
+959,Signaling by RAF1 mutants,signaling by raf1 mutants,pathway
+960,Signaling by RAS mutants,signaling by ras mutants,pathway
+961,Signaling by ROBO receptors,signaling by robo receptors,pathway
+962,Signaling by Receptor Tyrosine Kinases,signaling by receptor tyrosine kinases,pathway
+963,Signaling by Retinoic Acid,signaling by retinoic acid,pathway
+964,Signaling by Rho GTPases,signaling by rho gtpases,pathway
+965,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3","signaling by rho gtpases, miro gtpases and rhobtb3",pathway
+966,Signaling by SCF-KIT,signaling by scf-kit,pathway
+967,Signaling by TGF-beta Receptor Complex,signaling by tgf-beta receptor complex,pathway
+968,Signaling by TGF-beta Receptor Complex in Cancer,signaling by tgf-beta receptor complex in cancer,pathway
+969,Signaling by TGFB family members,signaling by tgfb family members,pathway
+970,Signaling by TGFBR3,signaling by tgfbr3,pathway
+971,Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),signaling by type 1 insulin-like growth factor 1 receptor (igf1r),pathway
+972,Signaling by VEGF,signaling by vegf,pathway
+973,Signaling by WNT,signaling by wnt,pathway
+974,Signaling by activated point mutants of FGFR1,signaling by activated point mutants of fgfr1,pathway
+975,Signaling by activated point mutants of FGFR3,signaling by activated point mutants of fgfr3,pathway
+976,Signaling by cytosolic FGFR1 fusion mutants,signaling by cytosolic fgfr1 fusion mutants,pathway
+977,Signaling by extracellular domain mutants of KIT,signaling by extracellular domain mutants of kit,pathway
+978,Signaling by high-kinase activity BRAF mutants,signaling by high-kinase activity braf mutants,pathway
+979,Signaling by juxtamembrane domain KIT mutants,signaling by juxtamembrane domain kit mutants,pathway
+980,Signaling by kinase domain mutants of KIT,signaling by kinase domain mutants of kit,pathway
+981,Signaling by membrane-tethered fusions of PDGFRA or PDGFRB,signaling by membrane-tethered fusions of pdgfra or pdgfrb,pathway
+982,Signaling by moderate kinase activity BRAF mutants,signaling by moderate kinase activity braf mutants,pathway
+983,"Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants","signaling by phosphorylated juxtamembrane, extracellular and kinase domain kit mutants",pathway
+984,Signaling by plasma membrane FGFR1 fusions,signaling by plasma membrane fgfr1 fusions,pathway
+985,Signaling by the B Cell Receptor (BCR),signaling by the b cell receptor (bcr),pathway
+986,Signaling downstream of RAS mutants,signaling downstream of ras mutants,pathway
+987,Signalling to ERKs,signalling to erks,pathway
+988,Signalling to RAS,signalling to ras,pathway
+989,Signalling to STAT3,signalling to stat3,pathway
+990,Signalling to p38 via RIT and RIN,signalling to p38 via rit and rin,pathway
+991,Smooth Muscle Contraction,smooth muscle contraction,pathway
+992,Somitogenesis,somitogenesis,pathway
+993,Sorafenib-resistant KIT mutants,sorafenib-resistant kit mutants,pathway
+994,Sorafenib-resistant PDGFR mutants,sorafenib-resistant pdgfr mutants,pathway
+995,Specification of primordial germ cells,specification of primordial germ cells,pathway
+996,Specification of the neural plate border,specification of the neural plate border,pathway
+997,Sphingolipid de novo biosynthesis,sphingolipid de novo biosynthesis,pathway
+998,Spry regulation of FGF signaling,spry regulation of fgf signaling,pathway
+999,Stimuli-sensing channels,stimuli-sensing channels,pathway
+1000,Sunitinib-resistant KIT mutants,sunitinib-resistant kit mutants,pathway
+1001,Sunitinib-resistant PDGFR mutants,sunitinib-resistant pdgfr mutants,pathway
+1002,Switching of origins to a post-replicative state,switching of origins to a post-replicative state,pathway
+1003,Syndecan interactions,syndecan interactions,pathway
+1004,Synthesis of DNA,synthesis of dna,pathway
+1005,Synthesis of PIPs at the plasma membrane,synthesis of pips at the plasma membrane,pathway
+1006,Synthesis of Prostaglandins (PG) and Thromboxanes (TX),synthesis of prostaglandins (pg) and thromboxanes (tx),pathway
+1007,TCF dependent signaling in response to WNT,tcf dependent signaling in response to wnt,pathway
+1008,TCR signaling,tcr signaling,pathway
+1009,TFAP2 (AP-2) family regulates transcription of growth factors and their receptors,tfap2 (ap-2) family regulates transcription of growth factors and their receptors,pathway
+1010,TFAP2A acts as a transcriptional repressor during retinoic acid induced cell differentiation,tfap2a acts as a transcriptional repressor during retinoic acid induced cell differentiation,pathway
+1011,TGF-beta receptor signaling activates SMADs,tgf-beta receptor signaling activates smads,pathway
+1012,TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition),tgf-beta receptor signaling in emt (epithelial to mesenchymal transition),pathway
+1013,TGFBR1 LBD Mutants in Cancer,tgfbr1 lbd mutants in cancer,pathway
+1014,TGFBR3 expression,tgfbr3 expression,pathway
+1015,TGFBR3 regulates TGF-beta signaling,tgfbr3 regulates tgf-beta signaling,pathway
+1016,TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway,tnf receptor superfamily (tnfsf) members mediating non-canonical nf-kb pathway,pathway
+1017,TNFR2 non-canonical NF-kB pathway,tnfr2 non-canonical nf-kb pathway,pathway
+1018,TP53 Regulates Metabolic Genes,tp53 regulates metabolic genes,pathway
+1019,TP53 Regulates Transcription of Cell Cycle Genes,tp53 regulates transcription of cell cycle genes,pathway
+1020,TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain,tp53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain,pathway
+1021,TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,traf6 mediated induction of nfkb and map kinases upon tlr7/8 or 9 activation,pathway
+1022,TRIF (TICAM1)-mediated TLR4 signaling ,trif (ticam1)-mediated tlr4 signaling,pathway
+1023,TRKA activation by NGF,trka activation by ngf,pathway
+1024,TRP channels,trp channels,pathway
+1025,TWIK related potassium channel (TREK),twik related potassium channel (trek),pathway
+1026,TWIK-related spinal cord K+ channel (TRESK),twik-related spinal cord k+ channel (tresk),pathway
+1027,TWIK-releated acid-sensitive K+ channel (TASK),twik-releated acid-sensitive k+ channel (task),pathway
+1028,Tandem pore domain potassium channels,tandem pore domain potassium channels,pathway
+1029,Telomere C-strand (Lagging Strand) Synthesis,telomere c-strand (lagging strand) synthesis,pathway
+1030,Telomere C-strand synthesis initiation,telomere c-strand synthesis initiation,pathway
+1031,Telomere Maintenance,telomere maintenance,pathway
+1032,Termination of translesion DNA synthesis,termination of translesion dna synthesis,pathway
+1033,"Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation","tetrahydrobiopterin (bh4) synthesis, recycling, salvage and regulation",pathway
+1034,The NLRP1 inflammasome,the nlrp1 inflammasome,pathway
+1035,The NLRP3 inflammasome,the nlrp3 inflammasome,pathway
+1036,The phototransduction cascade,the phototransduction cascade,pathway
+1037,The role of GTSE1 in G2/M progression after G2 checkpoint,the role of gtse1 in g2/m progression after g2 checkpoint,pathway
+1038,Thrombin signalling through proteinase activated receptors (PARs),thrombin signalling through proteinase activated receptors (pars),pathway
+1039,Thromboxane signalling through TP receptor,thromboxane signalling through tp receptor,pathway
+1040,Tie2 Signaling,tie2 signaling,pathway
+1041,Tight junction interactions,tight junction interactions,pathway
+1042,Toll Like Receptor 10 (TLR10) Cascade,toll like receptor 10 (tlr10) cascade,pathway
+1043,Toll Like Receptor 2 (TLR2) Cascade,toll like receptor 2 (tlr2) cascade,pathway
+1044,Toll Like Receptor 3 (TLR3) Cascade,toll like receptor 3 (tlr3) cascade,pathway
+1045,Toll Like Receptor 4 (TLR4) Cascade,toll like receptor 4 (tlr4) cascade,pathway
+1046,Toll Like Receptor 5 (TLR5) Cascade,toll like receptor 5 (tlr5) cascade,pathway
+1047,Toll Like Receptor 7/8 (TLR7/8) Cascade,toll like receptor 7/8 (tlr7/8) cascade,pathway
+1048,Toll Like Receptor 9 (TLR9) Cascade,toll like receptor 9 (tlr9) cascade,pathway
+1049,Toll Like Receptor TLR1:TLR2 Cascade,toll like receptor tlr1:tlr2 cascade,pathway
+1050,Toll Like Receptor TLR6:TLR2 Cascade,toll like receptor tlr6:tlr2 cascade,pathway
+1051,Toll-like Receptor Cascades,toll-like receptor cascades,pathway
+1052,Toxicity of botulinum toxin type A (botA),toxicity of botulinum toxin type a (bota),pathway
+1053,Toxicity of botulinum toxin type E (botE),toxicity of botulinum toxin type e (bote),pathway
+1054,Trafficking of AMPA receptors,trafficking of ampa receptors,pathway
+1055,Transcription of E2F targets under negative control by DREAM complex,transcription of e2f targets under negative control by dream complex,pathway
+1056,Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1,transcription of e2f targets under negative control by p107 (rbl1) and p130 (rbl2) in complex with hdac1,pathway
+1057,Transcription-Coupled Nucleotide Excision Repair (TC-NER),transcription-coupled nucleotide excision repair (tc-ner),pathway
+1058,Transcriptional Regulation by MECP2,transcriptional regulation by mecp2,pathway
+1059,Transcriptional Regulation by NPAS4,transcriptional regulation by npas4,pathway
+1060,Transcriptional Regulation by TP53,transcriptional regulation by tp53,pathway
+1061,Transcriptional Regulation by VENTX,transcriptional regulation by ventx,pathway
+1062,Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer,transcriptional activity of smad2/smad3:smad4 heterotrimer,pathway
+1063,Transcriptional and post-translational regulation of MITF-M expression and activity,transcriptional and post-translational regulation of mitf-m expression and activity,pathway
+1064,Transcriptional regulation by RUNX1,transcriptional regulation by runx1,pathway
+1065,Transcriptional regulation by RUNX2,transcriptional regulation by runx2,pathway
+1066,Transcriptional regulation by RUNX3,transcriptional regulation by runx3,pathway
+1067,Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors,transcriptional regulation by the ap-2 (tfap2) family of transcription factors,pathway
+1068,Transcriptional regulation of brown and beige adipocyte differentiation,transcriptional regulation of brown and beige adipocyte differentiation,pathway
+1069,Transcriptional regulation of brown and beige adipocyte differentiation by EBF2,transcriptional regulation of brown and beige adipocyte differentiation by ebf2,pathway
+1070,Transcriptional regulation of granulopoiesis,transcriptional regulation of granulopoiesis,pathway
+1071,Transcriptional regulation of pluripotent stem cells,transcriptional regulation of pluripotent stem cells,pathway
+1072,Transcriptional regulation of white adipocyte differentiation,transcriptional regulation of white adipocyte differentiation,pathway
+1073,Translation,translation,pathway
+1074,Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template,translesion synthesis by y family dna polymerases bypasses lesions on dna template,pathway
+1075,Translocation of SLC2A4 (GLUT4) to the plasma membrane,translocation of slc2a4 (glut4) to the plasma membrane,pathway
+1076,Transmission across Chemical Synapses,transmission across chemical synapses,pathway
+1077,Transport of connexons to the plasma membrane,transport of connexons to the plasma membrane,pathway
+1078,Transport of small molecules,transport of small molecules,pathway
+1079,Transport to the Golgi and subsequent modification,transport to the golgi and subsequent modification,pathway
+1080,"Turbulent (oscillatory, disturbed) flow shear stress activates signaling by PIEZO1 and integrins in endothelial cells","turbulent (oscillatory, disturbed) flow shear stress activates signaling by piezo1 and integrins in endothelial cells",pathway
+1081,Type I hemidesmosome assembly,type i hemidesmosome assembly,pathway
+1082,Ub-specific processing proteases,ub-specific processing proteases,pathway
+1083,Ubiquitin-Mediated Degradation of Phosphorylated Cdc25A,ubiquitin-mediated degradation of phosphorylated cdc25a,pathway
+1084,Ubiquitin-dependent degradation of Cyclin D,ubiquitin-dependent degradation of cyclin d,pathway
+1085,Uptake and actions of bacterial toxins,uptake and actions of bacterial toxins,pathway
+1086,Uptake and function of anthrax toxins,uptake and function of anthrax toxins,pathway
+1087,Uptake and function of diphtheria toxin,uptake and function of diphtheria toxin,pathway
+1088,VEGF binds to VEGFR leading to receptor dimerization,vegf binds to vegfr leading to receptor dimerization,pathway
+1089,VEGF ligand-receptor interactions,vegf ligand-receptor interactions,pathway
+1090,VEGFA-VEGFR2 Pathway,vegfa-vegfr2 pathway,pathway
+1091,VEGFR2 mediated cell proliferation,vegfr2 mediated cell proliferation,pathway
+1092,VEGFR2 mediated vascular permeability,vegfr2 mediated vascular permeability,pathway
+1093,Vasopressin regulates renal water homeostasis via Aquaporins,vasopressin regulates renal water homeostasis via aquaporins,pathway
+1094,Vesicle-mediated transport,vesicle-mediated transport,pathway
+1095,Vif-mediated degradation of APOBEC3G,vif-mediated degradation of apobec3g,pathway
+1096,Viral Infection Pathways,viral infection pathways,pathway
+1097,Visual phototransduction,visual phototransduction,pathway
+1098,Vitamin C (ascorbate) metabolism,vitamin c (ascorbate) metabolism,pathway
+1099,Vitamin D (calciferol) metabolism,vitamin d (calciferol) metabolism,pathway
+1100,Voltage gated Potassium channels,voltage gated potassium channels,pathway
+1101,YAP1- and WWTR1 (TAZ)-stimulated gene expression,yap1- and wwtr1 (taz)-stimulated gene expression,pathway
+1102,activated TAK1 mediates p38 MAPK activation,activated tak1 mediates p38 mapk activation,pathway
+1103,crenolanib-resistant FLT3 mutants,crenolanib-resistant flt3 mutants,pathway
+1104,eNOS activation,enos activation,pathway
+1105,gilteritinib-resistant FLT3 mutants,gilteritinib-resistant flt3 mutants,pathway
+1106,lestaurtinib-resistant FLT3 mutants,lestaurtinib-resistant flt3 mutants,pathway
+1107,linifanib-resistant FLT3 mutants,linifanib-resistant flt3 mutants,pathway
+1108,mTORC1-mediated signalling,mtorc1-mediated signalling,pathway
+1109,midostaurin-resistant FLT3 mutants,midostaurin-resistant flt3 mutants,pathway
+1110,p130Cas linkage to MAPK signaling for integrins,p130cas linkage to mapk signaling for integrins,pathway
+1111,p38MAPK events,p38mapk events,pathway
+1112,p53-Dependent G1 DNA Damage Response,p53-dependent g1 dna damage response,pathway
+1113,p53-Dependent G1/S DNA damage checkpoint,p53-dependent g1/s dna damage checkpoint,pathway
+1114,p53-Independent G1/S DNA Damage Checkpoint,p53-independent g1/s dna damage checkpoint,pathway
+1115,p75 NTR receptor-mediated signalling,p75 ntr receptor-mediated signalling,pathway
+1116,p75NTR negatively regulates cell cycle via SC1,p75ntr negatively regulates cell cycle via sc1,pathway
+1117,pexidartinib-resistant FLT3 mutants,pexidartinib-resistant flt3 mutants,pathway
+1118,ponatinib-resistant FLT3 mutants,ponatinib-resistant flt3 mutants,pathway
+1119,quizartinib-resistant FLT3 mutants,quizartinib-resistant flt3 mutants,pathway
+1120,semaxanib-resistant FLT3 mutants,semaxanib-resistant flt3 mutants,pathway
+1121,sorafenib-resistant FLT3 mutants,sorafenib-resistant flt3 mutants,pathway
+1122,sunitinib-resistant FLT3 mutants,sunitinib-resistant flt3 mutants,pathway
+1123,t(4;14) translocations of FGFR3,t(4;14) translocations of fgfr3,pathway
+1124,tamatinib-resistant FLT3 mutants,tamatinib-resistant flt3 mutants,pathway
+1125,tandutinib-resistant FLT3 mutants,tandutinib-resistant flt3 mutants,pathway
+1126,trans-Golgi Network Vesicle Budding,trans-golgi network vesicle budding,pathway
+1127,vRNA Synthesis,vrna synthesis,pathway
+1128,vRNP Assembly,vrnp assembly,pathway

@@ -1,0 +1,68 @@
+id,name,canonical_name,source_datasets,type
+0,acute myeloid leukemia,acute myeloid leukemia,dataset1;dataset2,disease
+1,bladder cancer,bladder cancer,dataset1,disease
+2,breast cancer,breast cancer,dataset1;dataset2,disease
+3,cervical cancer,cervical cancer,dataset1,disease
+4,chronic myeloid leukemia,chronic myeloid leukemia,dataset1,disease
+5,colon cancer,colon cancer,dataset1;dataset2,disease
+6,colorectal cancer,colorectal cancer,dataset1;dataset2,disease
+7,diffuse large B-cell lymphoma,diffuse large b-cell lymphoma,dataset1,disease
+8,esophageal cancer,esophageal cancer,dataset1;dataset2,disease
+9,esophageal squamous cell carcinoma,esophageal squamous cell carcinoma,dataset1,disease
+10,glioma,glioma,dataset1;dataset2,disease
+11,head and neck squamous cell carcinoma,head and neck squamous cell carcinoma,dataset1,disease
+12,hepatocellular carcinoma,hepatocellular carcinoma,dataset1;dataset2,disease
+13,leukemia,leukemia,dataset1;dataset2,disease
+14,liver cancer,liver cancer,dataset1,disease
+15,lung adenocarcinoma,lung adenocarcinoma,dataset1;dataset2,disease
+16,lung cancer,lung cancer,dataset1;dataset2,disease
+17,lung non-small cell carcinoma,non-small cell lung cancer,dataset1;dataset2,disease
+18,melanoma,melanoma,dataset1;dataset2,disease
+19,multiple myeloma,multiple myeloma,dataset1;dataset2,disease
+20,nasopharyngeal carcinoma,nasopharyngeal carcinoma,dataset1,disease
+21,osteosarcoma,osteosarcoma,dataset1;dataset2,disease
+22,ovarian cancer,ovarian cancer,dataset1;dataset2,disease
+23,pancreatic cancer,pancreatic cancer,dataset1;dataset2,disease
+24,prostate cancer,prostate cancer,dataset1;dataset2,disease
+25,renal cell carcinoma,renal cell carcinoma,dataset1;dataset2,disease
+26,stomach cancer,gastric cancer,dataset1;dataset2,disease
+27,Papillary Thyroid Cancer,papillary thyroid cancer,dataset2,disease
+28,Glioblastoma,glioblastoma,dataset2,disease
+29,Pancreatic Ductal Adenocarcinoma,pancreatic ductal adenocarcinoma,dataset2,disease
+30,Small Cell Lung Cancer,small cell lung cancer,dataset2,disease
+31,Epithelial Ovarian Cancer,epithelial ovarian cancer,dataset2,disease
+32,Laryngeal Cancer,laryngeal cancer,dataset2,disease
+33,Ewing Sarcoma,ewing sarcoma,dataset2,disease
+34,Retinoblastoma,retinoblastoma,dataset2,disease
+35,Hypopharyngeal Cancer,hypopharyngeal cancer,dataset2,disease
+36,Endometrial Cancer,endometrial cancer,dataset2,disease
+37,Triple-Negative Breast Cancer,triple-negative breast cancer,dataset2,disease
+38,Gastrointestinal Stromal Tumor,gastrointestinal stromal tumor,dataset2,disease
+39,Neuroblastoma,neuroblastoma,dataset2,disease
+40,Thyroid Cancer,thyroid cancer,dataset2,disease
+41,Colorectal Adenocarcinoma,colorectal adenocarcinoma,dataset2,disease
+42,Gallbladder Cancer,gallbladder cancer,dataset2,disease
+43,Seminoma,seminoma,dataset2,disease
+44,Pituitary Adenoma,pituitary adenoma,dataset2,disease
+45,Acute Lymphoblastic Leukemia,acute lymphoblastic leukemia,dataset2,disease
+46,Brain Tumour,brain tumor,dataset2,disease
+47,Esophageal Adenocarcinoma,esophageal adenocarcinoma,dataset2,disease
+48,Acute Promyelocytic Leukemia,acute promyelocytic leukemia,dataset2,disease
+49,Urothelial Bladder Cancer,urothelial bladder cancer,dataset2,disease
+50,Chondrosarcoma,chondrosarcoma,dataset2,disease
+51,Squamous Cell Carcinoma,squamous cell carcinoma,dataset2,disease
+52,Testicular Cancer,testicular cancer,dataset2,disease
+53,Cutaneous T-Cell Lymphoma,cutaneous t-cell lymphoma,dataset2,disease
+54,Chronic Hepatitis C,chronic hepatitis c,dataset2,disease
+55,Glioma Stem Cancer,glioma stem cancer,dataset2,disease
+56,Parkinson’s Disease,parkinson's disease,dataset2,disease
+57,Rectal Cancer,rectal cancer,dataset2,disease
+58,Tongue Cancer,tongue cancer,dataset2,disease
+59,Malignant Pleural Mesothelioma,malignant pleural mesothelioma,dataset2,disease
+60,Lymphoma,lymphoma,dataset2,disease
+61,Peripheral T-Cell Lymphoma,peripheral t-cell lymphoma,dataset2,disease
+62,Osteoarthritis,osteoarthritis,dataset2,disease
+63,Epilepsy,epilepsy,dataset2,disease
+64,Acute Kidney Injury,acute kidney injury,dataset2,disease
+65,Skin Cancer,skin cancer,dataset2,disease
+66,Nongerminomatous Germ Cell Tumors,nongerminomatous germ cell tumors,dataset2,disease

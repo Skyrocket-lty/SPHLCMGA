@@ -1,0 +1,2 @@
+total_samples,standard_wrong,standard_right,rich_corrections,rich_regressions,correction_rate,regression_rate,net_correction,mcnemar_pvalue
+14532,3513,11019,910,743,0.2590378593794478,0.06742898629639713,167,4.3856248705196596e-05

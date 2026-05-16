@@ -1,0 +1,16 @@
+[
+  "malignant",
+  "macrophage_monocyte",
+  "fibroblast_caf",
+  "endothelial",
+  "t_cell",
+  "miR21_target_score",
+  "abc_transporter_score",
+  "cisplatin_support_score",
+  "spatial_tumor_core_proxy",
+  "spatial_stromal_barrier_proxy",
+  "spatial_vascular_proxy",
+  "spatial_interface_proxy",
+  "spatial_immune_exclusion_proxy",
+  "spatial_transporter_barrier_proxy"
+]

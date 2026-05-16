@@ -1,0 +1,15 @@
+feature_name,source_type,feature_group,formula,context_source
+malignant,cell composition,cell_composition,mean fraction of malignant/tumor cells within the assigned disease context,assigned context mean from lung_resistance_context or pancreatic_sensitivity_context; 0 for unmatched diseases
+macrophage_monocyte,cell composition,cell_composition,mean fraction of macrophage/monocyte cells within the assigned disease context,assigned context mean from lung_resistance_context or pancreatic_sensitivity_context; 0 for unmatched diseases
+fibroblast_caf,cell composition,cell_composition,mean fraction of fibroblast/CAF cells within the assigned disease context,assigned context mean from lung_resistance_context or pancreatic_sensitivity_context; 0 for unmatched diseases
+endothelial,cell composition,cell_composition,mean fraction of endothelial cells within the assigned disease context,assigned context mean from lung_resistance_context or pancreatic_sensitivity_context; 0 for unmatched diseases
+t_cell,cell composition,cell_composition,mean fraction of T cells within the assigned disease context,assigned context mean from lung_resistance_context or pancreatic_sensitivity_context; 0 for unmatched diseases
+miR21_target_score,module score,module_score,mean UCell score of the miR-21 target module within the assigned disease context,assigned context mean from lung_resistance_context or pancreatic_sensitivity_context; 0 for unmatched diseases
+abc_transporter_score,module score,module_score,mean UCell score of the ABC transporter module within the assigned disease context,assigned context mean from lung_resistance_context or pancreatic_sensitivity_context; 0 for unmatched diseases
+cisplatin_support_score,module score,module_score,mean UCell score of the cisplatin-support module within the assigned disease context,assigned context mean from lung_resistance_context or pancreatic_sensitivity_context; 0 for unmatched diseases
+spatial_tumor_core_proxy,derived spatial proxy,spatial_proxy,malignant,derived from assigned non-spatial context summary; not a direct spatial transcriptomics measurement
+spatial_stromal_barrier_proxy,derived spatial proxy,spatial_proxy,fibroblast_caf + endothelial,derived from assigned non-spatial context summary; not a direct spatial transcriptomics measurement
+spatial_vascular_proxy,derived spatial proxy,spatial_proxy,endothelial,derived from assigned non-spatial context summary; not a direct spatial transcriptomics measurement
+spatial_interface_proxy,derived spatial proxy,spatial_proxy,malignant * (fibroblast_caf + macrophage_monocyte),derived from assigned non-spatial context summary; not a direct spatial transcriptomics measurement
+spatial_immune_exclusion_proxy,derived spatial proxy,spatial_proxy,(macrophage_monocyte + fibroblast_caf) / (t_cell + 1e-4),derived from assigned non-spatial context summary; not a direct spatial transcriptomics measurement
+spatial_transporter_barrier_proxy,derived spatial proxy,spatial_proxy,abc_transporter_score * fibroblast_caf,derived from assigned non-spatial context summary; not a direct spatial transcriptomics measurement
