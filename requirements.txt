@@ -1,0 +1,17 @@
+﻿numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+psutil
+requests
+xenaPython
+anndata
+pyUCell
+openpyxl
+torch
+torch-geometric
+torch-scatter
+lifelines
+statsmodels
